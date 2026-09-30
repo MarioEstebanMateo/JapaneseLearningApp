@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+JP:wght@400;500;700;900&display=swap');
+@import "tailwindcss";
+
+:root {
+  font-family: 'Manrope', sans-serif;
+  color: #e2e8f0;
+  background: #020617;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* { box-sizing: border-box; }
+body { margin: 0; min-height: 100vh; overflow-x: hidden; }
+button { font: inherit; }
+.jp { font-family: 'Noto Sans JP', sans-serif; }
+.mono { font-family: 'DM Mono', monospace; }
+.app-shell {
+  background:
+    radial-gradient(circle at 12% 8%, rgba(14, 116, 144, .15), transparent 26rem),
+    radial-gradient(circle at 90% 80%, rgba(20, 184, 166, .08), transparent 24rem),
+    #020617;
+}
+.grid-texture {
+  background-image: linear-gradient(rgba(148,163,184,.045) 1px, transparent 1px), linear-gradient(90deg, rgba(148,163,184,.045) 1px, transparent 1px);
+  background-size: 42px 42px;
+}
+.fade-up { animation: fade-up .55s ease-out both; }
+@keyframes fade-up { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.option-enter { animation: option-enter .35s ease-out both; }
+@keyframes option-enter { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+
+@media (max-width: 640px) {
+  .app-shell main { padding-left: 1rem; padding-right: 1rem; }
+  .app-shell main > div > header { flex-wrap: wrap; gap: .75rem; }
+  .app-shell main > div > header > div:last-child { margin-left: auto; max-width: 100%; }
+  .app-shell main > div > header > div:last-child > div { gap: .5rem; }
+  .app-shell h1, .app-shell h2, .app-shell p { overflow-wrap: anywhere; }
+  .app-shell button { min-height: 2.75rem; }
+}

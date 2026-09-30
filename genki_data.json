@@ -1,0 +1,4149 @@
+{
+  "source": "Genki 1 Resumen IA 2.pdf",
+  "chapters": [
+    {
+      "lesson": 1,
+      "title": "Lección 1",
+      "vocabulary": [
+        {
+          "jp": "あの",
+          "romaji": "ano",
+          "es": "aquel / aquella (interjección de vacilación)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "いま",
+          "romaji": "ima",
+          "es": "ahora",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "えいご",
+          "romaji": "eigo",
+          "es": "idioma inglés",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "ええ",
+          "romaji": "ee",
+          "es": "sí (informal/amable)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "がくせい",
+          "romaji": "gakusei",
+          "es": "estudiante",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "〜ご",
+          "romaji": "go",
+          "es": "idioma ... (ej. にほんご - nihongo: idioma japonés)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "こうこう",
+          "romaji": "koukou",
+          "es": "escuela secundaria (preparatoria)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "さいこう",
+          "romaji": "saikou",
+          "es": "el máximo / lo mejor",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "さい",
+          "romaji": "sai",
+          "es": "... años de edad",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "〜さん",
+          "romaji": "san",
+          "es": "Sr. / Sra. / Srita. (sufijo de respeto)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "〜じ",
+          "romaji": "ji",
+          "es": "o'clock / ... horas",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "じん",
+          "romaji": "jin",
+          "es": "persona de ... (nacionalidad, ej. アメリ人 amerika-jin: estadounidense)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "せんせい",
+          "romaji": "sensei",
+          "es": "profesor / maestro",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "せんこう",
+          "romaji": "senkou",
+          "es": "especialidad académica / carrera",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "そうです",
+          "romaji": "sou desu",
+          "es": "así es / es correcto",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "だいがく",
+          "romaji": "daigaku",
+          "es": "universidad",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "でんわ",
+          "romaji": "denwa",
+          "es": "teléfono",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "ともだち",
+          "romaji": "tomodachi",
+          "es": "amigo/a",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "なまえ",
+          "romaji": "namae",
+          "es": "nombre",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "なん",
+          "romaji": "nan / nani",
+          "es": "qué",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "にほん",
+          "romaji": "nihon",
+          "es": "Japón",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "〜ねんせい",
+          "romaji": "nensei",
+          "es": "estudiante de ... año (ej. いちねんせい ichinensei: estudiante de",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "はい",
+          "romaji": "hai",
+          "es": "sí",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "はん",
+          "romaji": "han",
+          "es": "y media (de la hora)",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "ばんごう",
+          "romaji": "bangou",
+          "es": "número",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "りゅうがくせい",
+          "romaji": "ryuugakusei",
+          "es": "estudiante de intercambio / internacional",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "わたし",
+          "romaji": "watashi",
+          "es": "yo",
+          "category": "Sustantivos - Personas y Relaciones"
+        },
+        {
+          "jp": "アメリカ",
+          "romaji": "amerika",
+          "es": "Estados Unidos",
+          "category": "Países y Nacionalidades"
+        },
+        {
+          "jp": "イギリス",
+          "romaji": "igirisu",
+          "es": "Reino Unido / Inglaterra",
+          "category": "Países y Nacionalidades"
+        },
+        {
+          "jp": "オーストラリア",
+          "romaji": "oosutoraria",
+          "es": "Australia",
+          "category": "Países y Nacionalidades"
+        },
+        {
+          "jp": "かんこく",
+          "romaji": "kankoku",
+          "es": "Corea del Sur",
+          "category": "Países y Nacionalidades"
+        },
+        {
+          "jp": "ちゅうごく",
+          "romaji": "chuugoku",
+          "es": "China",
+          "category": "Países y Nacionalidades"
+        },
+        {
+          "jp": "あじあけんきゅう",
+          "romaji": "asia kenkyuu",
+          "es": "estudios asiáticos",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "けいざい",
+          "romaji": "keizai",
+          "es": "economía",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "こうがく",
+          "romaji": "kougaku",
+          "es": "ingeniería",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "こくさいかんけい",
+          "romaji": "kokusaikankei",
+          "es": "relaciones internacionales",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "しんりがく",
+          "romaji": "shinrigaku",
+          "es": "psicología",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "せいじ",
+          "romaji": "seiji",
+          "es": "política",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "びじねす",
+          "romaji": "bijinesu",
+          "es": "negocios",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "ぶんがく",
+          "romaji": "bungaku",
+          "es": "literatura",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "れきし",
+          "romaji": "rekishi",
+          "es": "historia",
+          "category": "Especialidades Académicas (Majors)"
+        },
+        {
+          "jp": "いしゃ",
+          "romaji": "isha",
+          "es": "médico / doctor",
+          "category": "Ocupaciones"
+        },
+        {
+          "jp": "かいしゃいん",
+          "romaji": "kaishain",
+          "es": "empleado de empresa",
+          "category": "Ocupaciones"
+        },
+        {
+          "jp": "こうこうせい",
+          "romaji": "koukousei",
+          "es": "estudiante de secundaria",
+          "category": "Ocupaciones"
+        },
+        {
+          "jp": "しゅふ",
+          "romaji": "shufu",
+          "es": "ama de casa",
+          "category": "Ocupaciones"
+        },
+        {
+          "jp": "だいがくいんせい",
+          "romaji": "daigakuinsei",
+          "es": "estudiante de posgrado",
+          "category": "Ocupaciones"
+        },
+        {
+          "jp": "だいがくせい",
+          "romaji": "daigakusei",
+          "es": "estudiante universitario",
+          "category": "Ocupaciones"
+        }
+      ],
+      "verbs": [],
+      "sentences": [
+        {
+          "jp": "わたしは学生です。",
+          "es": "Soy estudiante."
+        },
+        {
+          "jp": "田中さんは先生です。",
+          "es": "El señor Tanaka es profesor."
+        },
+        {
+          "jp": "大学へ行きます。",
+          "es": "Voy a la universidad."
+        },
+        {
+          "jp": "友達と話します。",
+          "es": "Hablo con un amigo."
+        }
+      ],
+      "grammar": [
+        "Estructura básica de oraciones: X は Y です (X wa Y desu)",
+        "Preguntas con la partícula か (ka)",
+        "Modificador de sustantivos con la partícula の (no)",
+        "Números y Expresiones de Tiempo (Horas y Edades)"
+      ],
+      "grammarText": "1. Estructura básica de oraciones: X は Y です (X wa Y desu)\nEn japonés, el patrón fundamental para decir \"X es Y\" o \"X es igual a Y\" utiliza la partícula は\n(pronunciada \"wa\") para señalar el tema de la oración, y です (desu) al final como verbo\ncopulativo (es / ser).\n X は: Marca el tema principal (\"En cuanto a X...\"). La letra hiragana は se escribe ha, pero\ncuando actúa como partícula de tema se pronuncia wa.\n Y です: Afirma la identidad o cualidad de X (\"es Y\"). Se pronuncia casi siempre como des.\nEjemplos:\n わたしはメアリーです。\nRomaji: Watashi wa Mearii desu.\nEspañol: Yo soy Mary.\n たけしさんはがくせいです。\nRomaji: Takeshi-san wa gakusei desu.\nEspañol: Takeshi es estudiante.\n やましたさんはせんせいです。\nRomaji: Yamashita-san wa sensei desu.\nEspañol: El Sr. Yamashita es profesor.\n2. Preguntas con la partícula か (ka)\nPara transformar una oración afirmativa en una pregunta, simplemente se añade la partícula\ninterrogativa か (ka) al final de la oración. No es necesario cambiar el orden de las palabras ni usar\nsignos de interrogación (aunque a veces se colocan informalmente).\nEjemplos:\n りゅうがくせいですか。\nRomaji: Ryuugakusei desu ka.\nEspañol: ¿Eres / Es un estudiante internacional?\n せんこうはなんですか。\nRomaji: Senkou wa nan desu ka.\nEspañol: ¿Cuál es tu / su especialidad académica?\n いまなんじですか。\nRomaji: Ima nan-ji desu ka.\nEspañol: ¿Qué hora es ahora?\n3. Modificador de sustantivos con la partícula の (no)\nLa partícula の (no) conecta dos sustantivos (Sustantivo 1 の Sustantivo 2). El primer sustantivo\nmodifica, limita o posee al segundo sustantivo. Funciona como el 's en inglés o la preposición \"de\"\nen español.\n Posesión: \"El libro de Mary\" -> メアリーさんのほん (Mearii-san no hon)\n Pertenencia / Afiliación: \"Estudiante de la Universidad de Arizona\" -> アリゾナだいがく\nのがくせい (Arizona daigaku no gakusei)\nEjemplos:\n たけしさんのたんじょうび\nRomaji: Takeshi-san no tanjoubi\nEspañol: El cumpleaños de Takeshi\n\n\n にほんごのせんせい\nRomaji: Nihongo no sensei\nEspañol: Profesor/a de idioma japonés\n わたしのせんこうはけいざいです。\nRomaji: Watashi no senkou wa keizai desu.\nEspañol: Mi especialidad es la economía.\n4. Números y Expresiones de Tiempo (Horas y Edades)\nPara indicar la hora se añade 〜じ (ji) al número. Para la edad se añade 〜さい (sai).\nContar horas (時 - ji):\n 1時 (ichiji) - 1:00\n 2時 (niji) - 2:00\n 3時 (sanji) - 3:00\n 4時 (yoji) - 4:00 (Atención: irregular, no ichi/yonji)\n 7時 (shichiji) - 7:00 (Atención: shichiji, no nanaji)\n 9時 (kuji) - 9:00 (Atención: kuji, no kyūji)\nMinutos (分 - fun/pun) y Medios:\n 〜はん (han) significa \"y media\". Ejemplo: はちじはん (hachiji han = 8:30).\n 午前 (gozen) = a.m. / 午後 (gogo) = p.m. Se colocan antes de la hora.\nEjemplo: ごぜんくじ (gozen kuji = 9:00 a.m.)\nExpresar la edad (才 / 歳 - sai):\n 1歳 (issai) - 1 año (irregular)\n 8歳 (hassai) - 8 años (irregular)\n 10歳 (jussai / jissai) - 10 años (irregular)\n 20歳 (hatachi) - 20 años (totalmente irregular)\nEjemplos:\n メアリーさんはきゅうさいです。\nRomaji: Mearii-san wa kyuusai desu.\nEspañol: Mary tiene 9 años.\n たけしさんはにじゅういっさいです。\nRomaji: Takeshi-san wa nijuu issai desu.\nEspañol: Takeshi tiene 21 años.",
+      "kanji": []
+    },
+    {
+      "lesson": 2,
+      "title": "Lección 2",
+      "vocabulary": [
+        {
+          "jp": "これ",
+          "romaji": "kore",
+          "es": "esto",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "それ",
+          "romaji": "sore",
+          "es": "eso",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "あれ",
+          "romaji": "are",
+          "es": "aquello",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "どれ",
+          "romaji": "dore",
+          "es": "cuál",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "この",
+          "romaji": "kono",
+          "es": "este / esta",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "その",
+          "romaji": "sono",
+          "es": "ese / esa",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "あの",
+          "romaji": "ano",
+          "es": "aquel / aquella",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "どの",
+          "romaji": "dono",
+          "es": "cuál (adjetivo)",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "ここ",
+          "romaji": "koko",
+          "es": "aquí",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "そこ",
+          "romaji": "soko",
+          "es": "ahí",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "あそこ",
+          "romaji": "asoko",
+          "es": "allí",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "どこ",
+          "romaji": "doko",
+          "es": "dónde",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "だれ",
+          "romaji": "dare",
+          "es": "quién",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "美味しい",
+          "romaji": "oishii",
+          "es": "delicioso",
+          "category": "Objetos y Cosas",
+          "reading": "おいしい"
+        },
+        {
+          "jp": "魚",
+          "romaji": "sakana",
+          "es": "pescado",
+          "category": "Objetos y Cosas",
+          "reading": "さかな"
+        },
+        {
+          "jp": "とんかつ",
+          "romaji": "tonkatsu",
+          "es": "chuleta de cerdo empanizada",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "肉",
+          "romaji": "niku",
+          "es": "carne",
+          "category": "Objetos y Cosas",
+          "reading": "にく"
+        },
+        {
+          "jp": "メニュー",
+          "romaji": "menyuu",
+          "es": "menú",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "野菜",
+          "romaji": "yasai",
+          "es": "verdura",
+          "category": "Objetos y Cosas",
+          "reading": "やさい"
+        },
+        {
+          "jp": "鉛筆",
+          "romaji": "enpitsu",
+          "es": "lápiz",
+          "category": "Objetos y Cosas",
+          "reading": "えんぴつ"
+        },
+        {
+          "jp": "傘",
+          "romaji": "kasa",
+          "es": "sombrilla / paraguas",
+          "category": "Objetos y Cosas",
+          "reading": "かさ"
+        },
+        {
+          "jp": "鞄",
+          "romaji": "kaban",
+          "es": "bolsa / mochila",
+          "category": "Objetos y Cosas",
+          "reading": "かばん"
+        },
+        {
+          "jp": "靴",
+          "romaji": "kutsu",
+          "es": "zapatos",
+          "category": "Objetos y Cosas",
+          "reading": "くつ"
+        },
+        {
+          "jp": "財布",
+          "romaji": "saifu",
+          "es": "billetera",
+          "category": "Objetos y Cosas",
+          "reading": "さいふ"
+        },
+        {
+          "jp": "ジーンズ",
+          "romaji": "jiinzu",
+          "es": "pantalones de mezclilla / jeans",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "辞書",
+          "romaji": "jisho",
+          "es": "diccionario",
+          "category": "Objetos y Cosas",
+          "reading": "じしょ"
+        },
+        {
+          "jp": "自転車",
+          "romaji": "jitensha",
+          "es": "bicicleta",
+          "category": "Objetos y Cosas",
+          "reading": "じてんしゃ"
+        },
+        {
+          "jp": "新聞",
+          "romaji": "shinbun",
+          "es": "periódico",
+          "category": "Objetos y Cosas",
+          "reading": "しんぶん"
+        },
+        {
+          "jp": "Tシャツ",
+          "romaji": "tiishatsu",
+          "es": "camiseta",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "時計",
+          "romaji": "tokei",
+          "es": "reloj",
+          "category": "Objetos y Cosas",
+          "reading": "とけい"
+        },
+        {
+          "jp": "ノート",
+          "romaji": "nootu",
+          "es": "cuaderno",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "ペン",
+          "romaji": "pen",
+          "es": "bolígrafo",
+          "category": "Objetos y Cosas"
+        },
+        {
+          "jp": "帽子",
+          "romaji": "boushi",
+          "es": "sombrero / gorra",
+          "category": "Objetos y Cosas",
+          "reading": "ぼうし"
+        },
+        {
+          "jp": "本",
+          "romaji": "hon",
+          "es": "libro",
+          "category": "Objetos y Cosas",
+          "reading": "ほん"
+        },
+        {
+          "jp": "喫茶店",
+          "romaji": "kissaten",
+          "es": "cafetería",
+          "category": "Lugares e Instituciones",
+          "reading": "きっさてん"
+        },
+        {
+          "jp": "銀行",
+          "romaji": "ginkou",
+          "es": "banco",
+          "category": "Lugares e Instituciones",
+          "reading": "ぎんこう"
+        },
+        {
+          "jp": "トイレ",
+          "romaji": "toire",
+          "es": "baño",
+          "category": "Lugares e Instituciones"
+        },
+        {
+          "jp": "図書館",
+          "romaji": "toshokan",
+          "es": "biblioteca",
+          "category": "Lugares e Instituciones",
+          "reading": "としょかん"
+        },
+        {
+          "jp": "郵便局",
+          "romaji": "yuubinkyoku",
+          "es": "oficina de correos",
+          "category": "Lugares e Instituciones",
+          "reading": "ゆうびんきょく"
+        },
+        {
+          "jp": "経済",
+          "romaji": "keizai",
+          "es": "economía",
+          "category": "Otras Palabras y Expresiones",
+          "reading": "けいざい"
+        },
+        {
+          "jp": "いくら",
+          "romaji": "ikura",
+          "es": "cuánto (precio)",
+          "category": "Otras Palabras y Expresiones"
+        },
+        {
+          "jp": "〜円",
+          "romaji": "en",
+          "es": "yenes",
+          "category": "Otras Palabras y Expresiones",
+          "reading": "〜えん"
+        },
+        {
+          "jp": "高い",
+          "romaji": "takai",
+          "es": "caro / alto",
+          "category": "Otras Palabras y Expresiones",
+          "reading": "たかい"
+        },
+        {
+          "jp": "いらっしゃいませ",
+          "romaji": "irasshaimase",
+          "es": "bienvenido (en tiendas/restaurantes)",
+          "category": "Otras Palabras y Expresiones"
+        },
+        {
+          "jp": "お願いします",
+          "romaji": "onegai shimasu",
+          "es": "por favor",
+          "category": "Otras Palabras y Expresiones",
+          "reading": "おねがいします"
+        },
+        {
+          "jp": "ください",
+          "romaji": "kudasai",
+          "es": "por favor (deme)",
+          "category": "Otras Palabras y Expresiones"
+        },
+        {
+          "jp": "じゃあ",
+          "romaji": "jaa",
+          "es": "bueno, entonces...",
+          "category": "Otras Palabras y Expresiones"
+        },
+        {
+          "jp": "どうぞ",
+          "romaji": "douzo",
+          "es": "aquí tiene / adelante",
+          "category": "Otras Palabras y Expresiones"
+        }
+      ],
+      "verbs": [],
+      "sentences": [
+        {
+          "jp": "これは本です。",
+          "es": "Esto es un libro."
+        },
+        {
+          "jp": "辞書を使います。",
+          "es": "Uso un diccionario."
+        },
+        {
+          "jp": "時計があります。",
+          "es": "Hay un reloj."
+        },
+        {
+          "jp": "傘を買います。",
+          "es": "Compro un paraguas."
+        }
+      ],
+      "grammar": [
+        "Pronombres demostrativos de objeto: これ, それ, あれ, どれ (kore, sore, are, dore)",
+        "Adjetivos demostrativos: この, その, あの, どの (kono, sono, ano, dono)",
+        "Lugares demostrativos: ここ, そこ, あそこ, どこ (koko, soko, asoko, doko)",
+        "Preguntar de quién es un objeto: だれの (dare no)",
+        "Negación de です: じゃないです / ではありません (janai desu / de wa arimasen)",
+        "La partícula ね (ne) y よ (yo) al final de la oración"
+      ],
+      "grammarText": "1. Pronombres demostrativos de objeto: これ, それ, あれ, どれ (kore, sore, are, dore)\nIndican objetos sin mencionar explícitamente el sustantivo.\n これ (kore): Este / esto (objeto cercano al hablante).\n それ (sore): Ese / eso (objeto cercano al oyente).\n あれ (are): Aquel / aquello (objeto alejado de ambos).\n どれ (dore): Cuál (palabra interrogativa para elegir entre tres o más opciones).\nEjemplos:\n これはいくらですか。\nRomaji: Kore wa ikura desu ka.\nEspañol: ¿Cuánto cuesta esto?\n それはわたしの本です。\nRomaji: Sore wa watashi no hon desu.\nEspañol: Ese es mi libro.\n あれはだれの傘ですか。\nRomaji: Are wa dare no kasa desu ka.\nEspañol: ¿De quién es aquella sombrilla?\n2. Adjetivos demostrativos: この, その, あの, どの (kono, sono, ano, dono)\nModifican directamente a un sustantivo y siempre deben ir acompañados por uno (Sustantivo + こ\nの/その/あの/どの).\n この (kono + sustantivo): Este / esta ...\n その (sono + sustantivo): Ese / esa ...\n あの (ano + sustantivo): Aquel / aquella ...\n どの (dono + sustantivo): Qué / cuál ...\nEjemplos:\n この時計はいくらですか。\nRomaji: Kono tokei wa ikura desu ka.\nEspañol: ¿Cuánto cuesta este reloj?\n その鞄は三千円です。\nRomaji: Sono kaban wa sanzen en desu.\nEspañol: Esa bolsa cuesta 3,000 yenes.\n どのペンがあなたのですか。\nRomaji: Dono pen ga anata no desu ka.\nEspañol: ¿Cuál bolígrafo es el tuyo?\n3. Lugares demostrativos: ここ, そこ, あそこ, どこ (koko, soko, asoko, doko)\nIndican ubicación espacial o lugares.\n ここ (koko): Aquí / este lugar.\n そこ (soko): Ahí / ese lugar.\n あそこ (asoko): Allí / aquel lugar.\n どこ (doko): Dónde / qué lugar.\nEjemplos:\n ここは図書館です。\nRomaji: Koko wa toshokan desu.\nEspañol: Aquí es la biblioteca.\n\n\n トイレはどこですか。\nRomaji: Toire wa doko desu ka.\nEspañol: ¿Dónde está el baño?\n 郵便局にあそこです。\nRomaji: Yuubinkyoku wa asoko desu.\nEspañol: La oficina de correos está allá.\n4. Preguntar de quién es un objeto: だれの (dare no)\nSe combina la palabra interrogativa だれ (dare = quién) con la partícula de posesión の (no).\nEjemplos:\n これはだれの財布ですか。\nRomaji: Kore wa dare no saifu desu ka.\nEspañol: ¿De quién es esta billetera?\n それはメアリーさんのです。\nRomaji: Sore wa Mearii-san no desu.\nEspañol: Es de Mary. (Nota: Se omite el sustantivo repetido).\n5. Negación de です: じゃないです / ではありません (janai desu / de wa arimasen)\nPara decir \"no es\", se reemplaza です por じゃないです (informal/hablado) o ではありません\n(más formal).\nEjemplos:\n 山下さんは学生じゃないです。\nRomaji: Yamashita-san wa gakusei janai desu.\nEspañol: El Sr. Yamashita no es estudiante.\n これはわたしの本ではありません。\nRomaji: Kore wa watashi no hon de wa arimasen.\nEspañol: Este no es mi libro.\n6. La partícula ね (ne) y よ (yo) al final de la oración\n 〜ね (ne): Busca confirmación o acuerdo del oyente (\"¿verdad?\", \"¿cierto?\").\n 〜よ (yo): Aporta información nueva o da énfasis (\"¡te aseguro!\", \"¡sabes!\").\nEjemplos:\n この肉はおいしいですね。\nRomaji: Kono niku wa oishii desu ne.\nEspañol: Esta carne está deliciosa, ¿verdad?\n とんかつは魚じゃないですよ。\nRomaji: Tonkatsu wa sakana janai desu yo.\nEspañol: El tonkatsu no es pescado, ¡te lo aseguro!",
+      "kanji": []
+    },
+    {
+      "lesson": 3,
+      "title": "Lección 3",
+      "vocabulary": [
+        {
+          "jp": "朝",
+          "romaji": "asa",
+          "es": "mañana",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "あさ"
+        },
+        {
+          "jp": "明日",
+          "romaji": "ashita",
+          "es": "mañana (el día después de hoy)",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "あした"
+        },
+        {
+          "jp": "今日",
+          "romaji": "kyou",
+          "es": "hoy",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "きょう"
+        },
+        {
+          "jp": "今晩",
+          "romaji": "konban",
+          "es": "esta noche",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "こんばん"
+        },
+        {
+          "jp": "毎日",
+          "romaji": "mainichi",
+          "es": "todos los días",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "まいにち"
+        },
+        {
+          "jp": "毎晩",
+          "romaji": "maiban",
+          "es": "todas las noches",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "まいばん"
+        },
+        {
+          "jp": "週末",
+          "romaji": "shuumatsu",
+          "es": "fin de semana",
+          "category": "Sustantivos - Tiempo y Frecuencia",
+          "reading": "しゅうまつ"
+        },
+        {
+          "jp": "いつ",
+          "romaji": "itsu",
+          "es": "cuándo",
+          "category": "Sustantivos - Tiempo y Frecuencia"
+        },
+        {
+          "jp": "家",
+          "romaji": "ie",
+          "es": "casa / hogar",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "うち (uchi)"
+        },
+        {
+          "jp": "学校",
+          "romaji": "gakkou",
+          "es": "escuela",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "がっこう"
+        },
+        {
+          "jp": "朝ご飯",
+          "romaji": "asagohan",
+          "es": "desayuno",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "あさごはん"
+        },
+        {
+          "jp": "昼ご飯",
+          "romaji": "hirugohan",
+          "es": "almuerzo",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "ひるごはん"
+        },
+        {
+          "jp": "晩ご飯",
+          "romaji": "bangohan",
+          "es": "cena",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "ばんごはん"
+        },
+        {
+          "jp": "音楽",
+          "romaji": "ongaku",
+          "es": "música",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "おんがく"
+        },
+        {
+          "jp": "映画",
+          "romaji": "eiga",
+          "es": "película",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "えいが"
+        },
+        {
+          "jp": "お茶",
+          "romaji": "ocha",
+          "es": "té verde",
+          "category": "Sustantivos - Lugares y Comidas",
+          "reading": "おちゃ"
+        },
+        {
+          "jp": "コーヒー",
+          "romaji": "koohii",
+          "es": "café",
+          "category": "Sustantivos - Lugares y Comidas"
+        },
+        {
+          "jp": "あまり",
+          "romaji": "amari",
+          "es": "no mucho (con verbo negativo)",
+          "category": "Adverbios de Frecuencia"
+        },
+        {
+          "jp": "ぜんぜん",
+          "romaji": "zenzen",
+          "es": "nada / nunca (con verbo negativo)",
+          "category": "Adverbios de Frecuencia"
+        },
+        {
+          "jp": "たいてい",
+          "romaji": "taitei",
+          "es": "por lo general / usualmente",
+          "category": "Adverbios de Frecuencia"
+        },
+        {
+          "jp": "ときどき",
+          "romaji": "tokidoki",
+          "es": "a veces",
+          "category": "Adverbios de Frecuencia"
+        },
+        {
+          "jp": "よく",
+          "romaji": "yoku",
+          "es": "a menudo / frecuentemente",
+          "category": "Adverbios de Frecuencia"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "起きる",
+          "romaji": "okiru",
+          "es": "levantarse",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "起きます",
+          "te": "起きて",
+          "past": "起きた",
+          "reading": "おきる"
+        },
+        {
+          "jp": "食べる",
+          "romaji": "taberu",
+          "es": "comer",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "食べます",
+          "te": "食べて",
+          "past": "食べた",
+          "reading": "たべる"
+        },
+        {
+          "jp": "寝る",
+          "romaji": "neru",
+          "es": "dormir",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "寝ます",
+          "te": "寝て",
+          "past": "寝た",
+          "reading": "ねる"
+        },
+        {
+          "jp": "見る",
+          "romaji": "miru",
+          "es": "ver / mirar",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "見ます",
+          "te": "見て",
+          "past": "見た",
+          "reading": "みる"
+        },
+        {
+          "jp": "行く",
+          "romaji": "iku",
+          "es": "ir",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "行きます",
+          "te": "行って",
+          "past": "行った",
+          "reading": "いく"
+        },
+        {
+          "jp": "帰る",
+          "romaji": "kaeru",
+          "es": "regresar / volver",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "帰ります",
+          "te": "帰って",
+          "past": "帰った",
+          "reading": "かえる"
+        },
+        {
+          "jp": "聞く",
+          "romaji": "kiku",
+          "es": "escuchar / oír",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "聞きます",
+          "te": "聞いて",
+          "past": "聞いた",
+          "reading": "きく"
+        },
+        {
+          "jp": "飲む",
+          "romaji": "nomu",
+          "es": "beber",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "飲みます",
+          "te": "飲んで",
+          "past": "飲んだ",
+          "reading": "のむ"
+        },
+        {
+          "jp": "話す",
+          "romaji": "hanasu",
+          "es": "hablar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "話します",
+          "te": "話して",
+          "past": "話した",
+          "reading": "はなす"
+        },
+        {
+          "jp": "読む",
+          "romaji": "yomu",
+          "es": "leer",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "読みます",
+          "te": "読んで",
+          "past": "読んだ",
+          "reading": "よむ"
+        },
+        {
+          "jp": "くる",
+          "romaji": "kuru",
+          "es": "venir",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "来ます",
+          "te": "来て",
+          "past": "来た"
+        },
+        {
+          "jp": "する",
+          "romaji": "suru",
+          "es": "hacer",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "します",
+          "te": "して",
+          "past": "した"
+        },
+        {
+          "jp": "勉強する",
+          "romaji": "benkyou suru",
+          "es": "estudiar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "勉強します",
+          "te": "勉強して",
+          "past": "勉強した",
+          "reading": "べんきょうする"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "食堂で昼ご飯を食べます。",
+          "es": "Como el almuerzo en el comedor."
+        },
+        {
+          "jp": "銀行はどこですか。",
+          "es": "¿Dónde está el banco?"
+        },
+        {
+          "jp": "病院で働きます。",
+          "es": "Trabajo en el hospital."
+        },
+        {
+          "jp": "家へ帰ります。",
+          "es": "Vuelvo a casa."
+        }
+      ],
+      "grammar": [
+        "Clasificación de Verbos y Formas del Presente (Forma 〜ます)",
+        "Partículas de Oración: を, に, で, へ",
+        "Expresar sugerencias e invitaciones: 〜ましょうか / 〜ませんか",
+        "Modificadores de Frecuencia y Tiempo"
+      ],
+      "grammarText": "1. Clasificación de Verbos y Formas del Presente (Forma 〜ます)\nLos verbos en japonés no cambian según la persona (yo, tú, él), pero se clasifican en tres grupos:\n Verbos U (Grupo 1): Terminan en sonido -u (ej. いち (iku - ir), のむ (nomu - beber), はなす\n(hanasu - hablar)).\n Verbos RU (Grupo 2): Terminan en -eru o -iru (ej. たべる (taberu - comer), みる (miru -\nver)).\n Verbos Irregulares (Grupo 3): する (suru - hacer) y くる (kuru - venir).\nConjugación a la forma afirmativa no pasada (〜ます) y negativa (〜ません):\n RU-verbos: Eliminar る y añadir ます / ません.\no たべる -> たべます (tabemasu) / たべません (tabemasen)\n U-verbos: Cambiar el sonido de la última sílaba de la fila -u a la fila -i y añadir ます / ません\n.\no のむ -> のみます (nomimasu) / のみません (nomimansen)\no いく -> いきます (ikimasu) / いきません (ikimasen)\n Irregulares:\no する -> します (shimasu) / しません (shimansen)\no くる -> きます (kimasu) / きません (kimasen)\n2. Partículas de Oración: を, に, で, へ\nLas partículas indican la función gramatical de las palabras que las preceden:\n を (o): Marca el objeto directo sobre el que recae la acción del verbo.\no コーヒーを飲みます (Koohii o nomimasu - Bebo café).\n で (de): Indica el lugar donde ocurre una acción, o el medio empleado.\no うちでテレビを見ます (Uchi de terebi o miru - Veo televisión en casa).\n に (ni): Indica el destino/dirección del movimiento, o un punto específico en el tiempo.\no 学校に行きます (Gakkou ni ikimasu - Voy a la escuela).\no 七時に起きます (Shichiji ni okimasu - Me levanto a las 7:00).\n へ (he, pronunciado \"e\"): Indica la dirección hacia donde se dirige el movimiento (similar a\nに).\no 日本へ行きます (Nihon e ikimasu - Voy hacia Japón).\n3. Expresar sugerencias e invitaciones: 〜ましょうか / 〜ませんか\n 〜ませんか (masen ka): \"¿No te gustaría...?\" (Invitación muy amable).\n 〜ましょうか (mashou ka): \"¿Hacemos...?\" / \"¿Qué tal si...?\" (Sugerencia).\nEjemplos:\n 昼ご飯を食べませんか。\nRomaji: Hirugohan o tabemasen ka.\nEspañol: ¿No te gustaría comer el almuerzo?\n 映画を見ましょうか。\nRomaji: Eiga o mashou ka.\nEspañol: ¿Vemos una película?\n\n\n4. Modificadores de Frecuencia y Tiempo\nPalabras como まいにち (mainichi - todos los días), よく (yoku - a menudo), ときどき (tokidoki -\na veces) se colocan generalmente antes del objeto o verbo.\nPalabras negativas de frecuencia como ぜんぜん (zenzen - nunca / en absoluto) o あまり (amari -\nno mucho) requieren que el verbo esté en forma negativa (〜ません).\nEjemplos:\n わたしはよく音楽を聞きます。\nRomaji: Watashi wa yoku ongaku o kikimasu.\nEspañol: A menudo escucho música.\n わたしはぜんぜんテレビを見ません。\nRomaji: Watashi wa zenzen terebi o mimasen.\nEspañol: No veo televisión en absoluto.",
+      "kanji": [
+        {
+          "character": "一",
+          "reading": "ichi",
+          "meaning": "uno",
+          "kana": "いち"
+        },
+        {
+          "character": "二",
+          "reading": "ni",
+          "meaning": "dos",
+          "kana": "に"
+        },
+        {
+          "character": "三",
+          "reading": "san",
+          "meaning": "tres",
+          "kana": "さん"
+        },
+        {
+          "character": "四",
+          "reading": "yon/shi",
+          "meaning": "cuatro",
+          "kana": "よん / し"
+        },
+        {
+          "character": "五",
+          "reading": "go",
+          "meaning": "cinco",
+          "kana": "ご"
+        },
+        {
+          "character": "六",
+          "reading": "roku",
+          "meaning": "seis",
+          "kana": "ろく"
+        },
+        {
+          "character": "七",
+          "reading": "nana/shichi",
+          "meaning": "siete",
+          "kana": "なな / しち"
+        },
+        {
+          "character": "八",
+          "reading": "hachi",
+          "meaning": "ocho",
+          "kana": "はち"
+        },
+        {
+          "character": "九",
+          "reading": "kyuu/ku",
+          "meaning": "nueve",
+          "kana": "きゅう / く"
+        },
+        {
+          "character": "十",
+          "reading": "juu",
+          "meaning": "diez",
+          "kana": "じゅう"
+        },
+        {
+          "character": "百",
+          "reading": "hyaku",
+          "meaning": "cien",
+          "kana": "ひゃく"
+        },
+        {
+          "character": "千",
+          "reading": "sen",
+          "meaning": "mil",
+          "kana": "せん"
+        },
+        {
+          "character": "万",
+          "reading": "man",
+          "meaning": "diez mil",
+          "kana": "まん"
+        },
+        {
+          "character": "円",
+          "reading": "en",
+          "meaning": "yen",
+          "kana": "えん"
+        },
+        {
+          "character": "時",
+          "reading": "ji",
+          "meaning": "tiempo/hora",
+          "kana": "じ"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Lección 4",
+      "vocabulary": [
+        {
+          "jp": "昨日",
+          "romaji": "kinou",
+          "es": "ayer",
+          "category": "Sustantivos - Tiempo",
+          "reading": "きのう"
+        },
+        {
+          "jp": "今朝",
+          "romaji": "kesa",
+          "es": "esta mañana",
+          "category": "Sustantivos - Tiempo",
+          "reading": "けさ"
+        },
+        {
+          "jp": "先週",
+          "romaji": "senshuu",
+          "es": "la semana pasada",
+          "category": "Sustantivos - Tiempo",
+          "reading": "せんしゅう"
+        },
+        {
+          "jp": "先月",
+          "romaji": "sengetsu",
+          "es": "el mes pasado",
+          "category": "Sustantivos - Tiempo",
+          "reading": "せんげつ"
+        },
+        {
+          "jp": "去年",
+          "romaji": "kyonen",
+          "es": "el año pasado",
+          "category": "Sustantivos - Tiempo",
+          "reading": "きょねん"
+        },
+        {
+          "jp": "〜時間",
+          "romaji": "jikan",
+          "es": "... horas (duración)",
+          "category": "Sustantivos - Tiempo",
+          "reading": "〜じかん"
+        },
+        {
+          "jp": "一時間",
+          "romaji": "ichijikan",
+          "es": "una hora",
+          "category": "Sustantivos - Tiempo",
+          "reading": "いちじかん"
+        },
+        {
+          "jp": "買い物",
+          "romaji": "kaimono",
+          "es": "compras",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "かいもの"
+        },
+        {
+          "jp": "クラス",
+          "romaji": "kurasu",
+          "es": "clase",
+          "category": "Sustantivos - Lugares y Objetos"
+        },
+        {
+          "jp": "犬",
+          "romaji": "inu",
+          "es": "perro",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "いぬ"
+        },
+        {
+          "jp": "猫",
+          "romaji": "neko",
+          "es": "gato",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "ねこ"
+        },
+        {
+          "jp": "木",
+          "romaji": "ki",
+          "es": "árbol",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "き"
+        },
+        {
+          "jp": "物",
+          "romaji": "mono",
+          "es": "cosa (objeto)",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "もの"
+        },
+        {
+          "jp": "写真",
+          "romaji": "shashin",
+          "es": "fotografía",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "しゃしん"
+        },
+        {
+          "jp": "手紙",
+          "romaji": "tegami",
+          "es": "carta",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "てがみ"
+        },
+        {
+          "jp": "お土産",
+          "romaji": "omiyage",
+          "es": "recuerdo / souvenir",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "おみやげ"
+        },
+        {
+          "jp": "バス",
+          "romaji": "basu",
+          "es": "autobús",
+          "category": "Sustantivos - Lugares y Objetos"
+        },
+        {
+          "jp": "バス停",
+          "romaji": "basutei",
+          "es": "parada de autobús",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "ばすてい"
+        },
+        {
+          "jp": "病院",
+          "romaji": "byouin",
+          "es": "hospital",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "びょういん"
+        },
+        {
+          "jp": "ホテル",
+          "romaji": "hoteru",
+          "es": "hotel",
+          "category": "Sustantivos - Lugares y Objetos"
+        },
+        {
+          "jp": "本屋",
+          "romaji": "hon'ya",
+          "es": "librería",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "ほんや"
+        },
+        {
+          "jp": "町",
+          "romaji": "machi",
+          "es": "ciudad / pueblo",
+          "category": "Sustantivos - Lugares y Objetos",
+          "reading": "まち"
+        },
+        {
+          "jp": "レストラン",
+          "romaji": "resutoran",
+          "es": "restaurante",
+          "category": "Sustantivos - Lugares y Objetos"
+        },
+        {
+          "jp": "上",
+          "romaji": "ue",
+          "es": "arriba / sobre",
+          "category": "Ubicaciones Relativas",
+          "reading": "うえ"
+        },
+        {
+          "jp": "下",
+          "romaji": "shita",
+          "es": "abajo / debajo",
+          "category": "Ubicaciones Relativas",
+          "reading": "した"
+        },
+        {
+          "jp": "前",
+          "romaji": "mae",
+          "es": "enfrente",
+          "category": "Ubicaciones Relativas",
+          "reading": "まえ"
+        },
+        {
+          "jp": "後ろ",
+          "romaji": "ushiro",
+          "es": "atrás",
+          "category": "Ubicaciones Relativas",
+          "reading": "うしろ"
+        },
+        {
+          "jp": "中",
+          "romaji": "naka",
+          "es": "dentro",
+          "category": "Ubicaciones Relativas",
+          "reading": "なか"
+        },
+        {
+          "jp": "隣",
+          "romaji": "tonari",
+          "es": "al lado",
+          "category": "Ubicaciones Relativas",
+          "reading": "よこ"
+        },
+        {
+          "jp": "近く",
+          "romaji": "chikaku",
+          "es": "cerca",
+          "category": "Ubicaciones Relativas",
+          "reading": "ちかく"
+        },
+        {
+          "jp": "隣",
+          "romaji": "yoko",
+          "es": "a un lado",
+          "category": "Ubicaciones Relativas",
+          "reading": "よこ"
+        },
+        {
+          "jp": "間",
+          "romaji": "aida",
+          "es": "entre",
+          "category": "Ubicaciones Relativas",
+          "reading": "あいだ"
+        },
+        {
+          "jp": "〜ぐらい",
+          "romaji": "gurai",
+          "es": "aproximadamente",
+          "category": "Verbos y Expresiones"
+        },
+        {
+          "jp": "だから",
+          "romaji": "dakara",
+          "es": "por lo tanto / así que",
+          "category": "Verbos y Expresiones"
+        },
+        {
+          "jp": "たくさん",
+          "romaji": "takusan",
+          "es": "mucho / muchos",
+          "category": "Verbos y Expresiones"
+        },
+        {
+          "jp": "〜と",
+          "romaji": "to",
+          "es": "y / con (conector y compañía)",
+          "category": "Verbos y Expresiones"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "会う",
+          "romaji": "au",
+          "es": "encontrarse con (alguien に)",
+          "category": "Verbos y Expresiones",
+          "masu": "会います",
+          "te": "会って",
+          "past": "会った",
+          "reading": "あう"
+        },
+        {
+          "jp": "ある",
+          "romaji": "aru",
+          "es": "haber / estar (inanimado)",
+          "category": "Verbos y Expresiones",
+          "masu": "あります",
+          "te": "あって",
+          "past": "あった"
+        },
+        {
+          "jp": "買う",
+          "romaji": "kau",
+          "es": "comprar",
+          "category": "Verbos y Expresiones",
+          "masu": "買います",
+          "te": "買って",
+          "past": "買った",
+          "reading": "かう"
+        },
+        {
+          "jp": "書く",
+          "romaji": "kaku",
+          "es": "escribir",
+          "category": "Verbos y Expresiones",
+          "masu": "書きます",
+          "te": "書いて",
+          "past": "書いた",
+          "reading": "かく"
+        },
+        {
+          "jp": "撮る",
+          "romaji": "toru",
+          "es": "tomar (una foto)",
+          "category": "Verbos y Expresiones",
+          "masu": "撮ります",
+          "te": "撮って",
+          "past": "撮った",
+          "reading": "とる"
+        },
+        {
+          "jp": "待つ",
+          "romaji": "matsu",
+          "es": "esperar",
+          "category": "Verbos y Expresiones",
+          "masu": "待ちます",
+          "te": "待って",
+          "past": "待った",
+          "reading": "まつ"
+        },
+        {
+          "jp": "わかる",
+          "romaji": "wakaru",
+          "es": "entender / comprender",
+          "category": "Verbos y Expresiones",
+          "masu": "わかります",
+          "te": "わかって",
+          "past": "わかった"
+        },
+        {
+          "jp": "いる",
+          "romaji": "iru",
+          "es": "haber / estar (animado)",
+          "category": "Verbos y Expresiones",
+          "masu": "います",
+          "te": "いて",
+          "past": "いた"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "毎朝六時に起きます。",
+          "es": "Me levanto a las seis cada mañana."
+        },
+        {
+          "jp": "夜十時に寝ます。",
+          "es": "Me acuesto a las diez de la noche."
+        },
+        {
+          "jp": "毎日日本語を勉強します。",
+          "es": "Estudio japonés cada día."
+        },
+        {
+          "jp": "昼に友達が来ます。",
+          "es": "Mi amigo viene al mediodía."
+        }
+      ],
+      "grammar": [
+        "Verbos de existencia: あります (arimasu) y います (imasu)",
+        "Posiciones relativas y ubicación espacial",
+        "Expresar tiempo pasado: です / ます en pasado",
+        "Partícula も (mo) con múltiples elementos",
+        "Expresar duración de tiempo: 〜時間 (jikan)"
+      ],
+      "grammarText": "1. Verbos de existencia: あります (arimasu) y います (imasu)\nPara expresar la existencia de personas, animales u objetos inanimados en un lugar, se emplean dos\nverbos distintos:\n あります (arimasu): Se utiliza para cosas inanimadas, plantas u objetos inmóviles (libros,\neventos, mesas).\n います (imasu): Se utiliza para seres vivos animados (personas, animales).\nEstructura básica de ubicación:\n[Lugar] に [Objeto/Persona] が あります / います。\n([Lugar] ni [Objeto/Persona] ga arimasu / imasu)\n Partícula に (ni): Indica el lugar donde existe o se ubica algo.\n Partícula が (ga): Marca el sujeto de la existencia (aquello que está presente).\nEjemplos:\n 銀行の前に図書館があります。\nRomaji: Ginkou no mae ni toshokan ga arimasu.\nEspañol: Hay una biblioteca frente al banco.\n あそこにたけしさんがいます。\nRomaji: Asoko ni Takeshi-san ga imasu.\nEspañol: Allá está Takeshi.\n2. Posiciones relativas y ubicación espacial\nPara precisar la ubicación de un objeto respecto a otro, se utiliza la estructura:\n[Sustantivo A] の [Posición] に\nPalabras de posición:\n 上 / うえ (ue) - arriba / sobre\n 下 / した (shita) - abajo / debajo\n 前 / まえ (mae) - enfrente / delante\n 後ろ / うしろ (ushiro) - atrás / detrás\n 中 / なか (naka) - dentro / interior\n 隣 / となり (tonari) - al lado (de la misma categoría)\n 近く / ちかく (chikaku) - cerca\n 横 / よこ (yoko) - al lado (a los lados)\n 間 / あいだ (aida) - entre (dos puntos)\nEjemplos:\n 机の上に本があります。\nRomaji: Tsukue no ue ni hon ga arimasu.\nEspañol: Hay un libro sobre el escritorio.\n 銀行と喫茶店の間に郵便局があります。\nRomaji: Ginkou to kissaten no aida ni yuubinkyoku ga arimasu.\nEspañol: Hay una oficina de correos entre el banco y la cafetería.\n3. Expresar tiempo pasado: です / ます en pasado\nPara formar el pasado en verbos y en el verbo copulativo です, se modifica el final de la oración:\nSustantivos / Copulativos:\n Presente afirmativo: 〜です (desu)\n Pasado afirmativo: 〜でした (deshita)\n\n\n Presente negativo: 〜じゃないです (janai desu)\n Pasado negativo: 〜じゃなかったです (janakatta desu) / ではありませんでした (de wa\narimasen deshita)\nVerbos:\n Presente afirmativo: 〜ます (masu)\n Pasado afirmativo: 〜ました (mashita)\n Presente negativo: 〜ません (masen)\n Pasado negativo: 〜ませんでした (masen deshita)\nEjemplos:\n 昨日は日曜日でした。\nRomaji: Kinou wa nichiyoubi deshita.\nEspañol: Ayer fue domingo.\n わたしは昨日映画を見ました。\nRomaji: Watashi wa kinou eiga o mimashita.\nEspañol: Ayer vi una película.\n たけしさんは勉強しませんでした。\nRomaji: Takeshi-san wa benkyou shimasen deshita.\nEspañol: Takeshi no estudió.\n4. Partícula も (mo) con múltiples elementos\nCuando se quiere indicar que la misma condición aplica a más de una persona u objeto, se sustituyen\nlas partículas は, が o を por も.\nEjemplos:\n メアリーさんは韓国に行きました。たけしさんも韓国に行きました。\nRomaji: Mearii-san wa kankoku ni ikimashita. Takeshi-san mo kankoku ni ikimashita.\nEspañol: Mary fue a Corea. Takeshi también fue a Corea.\n5. Expresar duración de tiempo: 〜時間 (jikan)\nPara indicar la duración en horas, se añade 〜じかん (jikan) después del número de horas. No se\nnecesita la partícula に para marcar la duración.\nEjemplos:\n わたしは昨日一時間日本語を勉強しました。\nRomaji: Watashi wa kinou ichijikan nihongo o benkyou shimashita.\nEspañol: Ayer estudié japonés durante una hora.",
+      "kanji": [
+        {
+          "character": "日",
+          "reading": "nichi/hi",
+          "meaning": "sol/día",
+          "kana": "にち / ひ"
+        },
+        {
+          "character": "月",
+          "reading": "getsu/tsuki",
+          "meaning": "luna/mes",
+          "kana": "げつ / つき"
+        },
+        {
+          "character": "火",
+          "reading": "ka/hi",
+          "meaning": "fuego",
+          "kana": "か / ひ"
+        },
+        {
+          "character": "水",
+          "reading": "sui/mizu",
+          "meaning": "agua",
+          "kana": "すい / みず"
+        },
+        {
+          "character": "木",
+          "reading": "moku/ki",
+          "meaning": "árbol/madera",
+          "kana": "もく / き"
+        },
+        {
+          "character": "金",
+          "reading": "kin/kane",
+          "meaning": "oro/dinero",
+          "kana": "きん / かね"
+        },
+        {
+          "character": "土",
+          "reading": "do/tsuchi",
+          "meaning": "tierra",
+          "kana": "ど / つち"
+        },
+        {
+          "character": "本",
+          "reading": "hon/moto",
+          "meaning": "libro/origen",
+          "kana": "ほん / もと"
+        },
+        {
+          "character": "人",
+          "reading": "jin/hito",
+          "meaning": "persona",
+          "kana": "じん / ひと"
+        },
+        {
+          "character": "今",
+          "reading": "kon/ima",
+          "meaning": "ahora",
+          "kana": "こん / いま"
+        },
+        {
+          "character": "寺",
+          "reading": "ji/tera",
+          "meaning": "templo",
+          "kana": "じ / てら"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Lección 5",
+      "vocabulary": [
+        {
+          "jp": "新しい",
+          "romaji": "atarashii",
+          "es": "nuevo",
+          "category": "Adjetivos い",
+          "reading": "あたらしい"
+        },
+        {
+          "jp": "暑い",
+          "romaji": "atsui",
+          "es": "caluroso (clima)",
+          "category": "Adjetivos い",
+          "reading": "あつい"
+        },
+        {
+          "jp": "熱い",
+          "romaji": "atsui",
+          "es": "caliente (objetos/bebidas)",
+          "category": "Adjetivos い",
+          "reading": "あつい"
+        },
+        {
+          "jp": "忙しい",
+          "romaji": "isogashii",
+          "es": "ocupado",
+          "category": "Adjetivos い",
+          "reading": "いそがしい"
+        },
+        {
+          "jp": "大きい",
+          "romaji": "ookii",
+          "es": "grande",
+          "category": "Adjetivos い",
+          "reading": "おおきい"
+        },
+        {
+          "jp": "おもしろい",
+          "romaji": "omoshiroi",
+          "es": "interesante / divertido",
+          "category": "Adjetivos い"
+        },
+        {
+          "jp": "かっこいい",
+          "romaji": "kakkoii",
+          "es": "atractivo / genial",
+          "category": "Adjetivos い"
+        },
+        {
+          "jp": "怖い",
+          "romaji": "kowai",
+          "es": "aterrador / con miedo",
+          "category": "Adjetivos い",
+          "reading": "こわい"
+        },
+        {
+          "jp": "寒い",
+          "romaji": "samui",
+          "es": "frío (clima)",
+          "category": "Adjetivos い",
+          "reading": "さむい"
+        },
+        {
+          "jp": "楽しい",
+          "romaji": "tanoshii",
+          "es": "divertido / ameno",
+          "category": "Adjetivos い",
+          "reading": "たのしい"
+        },
+        {
+          "jp": "小さい",
+          "romaji": "chiisai",
+          "es": "pequeño",
+          "category": "Adjetivos い",
+          "reading": "ちいさい"
+        },
+        {
+          "jp": "つまらない",
+          "romaji": "tsumaranai",
+          "es": "aburrido",
+          "category": "Adjetivos い"
+        },
+        {
+          "jp": "古い",
+          "romaji": "furui",
+          "es": "viejo (objetos)",
+          "category": "Adjetivos い",
+          "reading": "ふるい"
+        },
+        {
+          "jp": "難しい",
+          "romaji": "muzukashii",
+          "es": "difícil",
+          "category": "Adjetivos い",
+          "reading": "むずかしい"
+        },
+        {
+          "jp": "やさしい",
+          "romaji": "yasashii",
+          "es": "fácil / amable",
+          "category": "Adjetivos い"
+        },
+        {
+          "jp": "安い",
+          "romaji": "yasui",
+          "es": "barato",
+          "category": "Adjetivos い",
+          "reading": "やすい"
+        },
+        {
+          "jp": "嫌い",
+          "romaji": "kirai",
+          "es": "no gustar / detestar",
+          "category": "Adjetivos な",
+          "reading": "きらい"
+        },
+        {
+          "jp": "きれい",
+          "romaji": "kirei",
+          "es": "hermoso / limpio",
+          "category": "Adjetivos な"
+        },
+        {
+          "jp": "元気",
+          "romaji": "genki",
+          "es": "saludable / con energía",
+          "category": "Adjetivos な",
+          "reading": "げんき"
+        },
+        {
+          "jp": "静か",
+          "romaji": "shizuka",
+          "es": "silencioso / tranquilo",
+          "category": "Adjetivos な",
+          "reading": "しずか"
+        },
+        {
+          "jp": "好き",
+          "romaji": "suki",
+          "es": "gustar",
+          "category": "Adjetivos な",
+          "reading": "すき"
+        },
+        {
+          "jp": "大好き",
+          "romaji": "daisuki",
+          "es": "encantar / gustar mucho",
+          "category": "Adjetivos な",
+          "reading": "だいすき"
+        },
+        {
+          "jp": "賑やか",
+          "romaji": "nigiyaka",
+          "es": "animado / concurridos",
+          "category": "Adjetivos な",
+          "reading": "にぎやか"
+        },
+        {
+          "jp": "暇",
+          "romaji": "hima",
+          "es": "libre (tiempo)",
+          "category": "Adjetivos な",
+          "reading": "ひま"
+        },
+        {
+          "jp": "海",
+          "romaji": "umi",
+          "es": "mar / océano",
+          "category": "Sustantivos",
+          "reading": "うみ"
+        },
+        {
+          "jp": "切手",
+          "romaji": "kitte",
+          "es": "estampilla / sello postal",
+          "category": "Sustantivos",
+          "reading": "きって"
+        },
+        {
+          "jp": "切符",
+          "romaji": "kippu",
+          "es": "boleto / billete",
+          "category": "Sustantivos",
+          "reading": "きっぷ"
+        },
+        {
+          "jp": "宿題",
+          "romaji": "shukudai",
+          "es": "tarea",
+          "category": "Sustantivos",
+          "reading": "しゅくだい"
+        },
+        {
+          "jp": "食べ物",
+          "romaji": "tabemono",
+          "es": "comida",
+          "category": "Sustantivos",
+          "reading": "たべもの"
+        },
+        {
+          "jp": "飲み物",
+          "romaji": "nomimono",
+          "es": "bebida",
+          "category": "Sustantivos",
+          "reading": "のみもの"
+        },
+        {
+          "jp": "天気",
+          "romaji": "tenki",
+          "es": "tiempo / clima",
+          "category": "Sustantivos",
+          "reading": "てんき"
+        },
+        {
+          "jp": "飛行機",
+          "romaji": "hikouki",
+          "es": "avión",
+          "category": "Sustantivos",
+          "reading": "ひこうき"
+        },
+        {
+          "jp": "部屋",
+          "romaji": "heya",
+          "es": "habitación / cuarto",
+          "category": "Sustantivos",
+          "reading": "へや"
+        },
+        {
+          "jp": "休み",
+          "romaji": "yasumi",
+          "es": "descanso / vacaciones",
+          "category": "Sustantivos",
+          "reading": "やすみ"
+        }
+      ],
+      "verbs": [],
+      "sentences": [
+        {
+          "jp": "電車で学校へ行きます。",
+          "es": "Voy a la escuela en tren."
+        },
+        {
+          "jp": "駅まで歩きます。",
+          "es": "Camino hasta la estación."
+        },
+        {
+          "jp": "自転車に乗ります。",
+          "es": "Monto en bicicleta."
+        },
+        {
+          "jp": "夏に海で泳ぎます。",
+          "es": "Nado en el mar en verano."
+        }
+      ],
+      "grammar": [
+        "Adjetivos en japonés: Adjetivos い (i) y Adjetivos な (na)",
+        "Expresar gustos y aversiones: 好き (suki) y 嫌い (kirai)",
+        "Modificación de sustantivos con adjetivos",
+        "Proponer o sugerir acciones: 〜ましょう (mashou)"
+      ],
+      "grammarText": "1. Adjetivos en japonés: Adjetivos い (i) y Adjetivos な (na)\nExisten dos clases de adjetivos en japonés que se conjugan de manera distinta.\nAdjetivos い (i-adjectives): Terminan en la vocal い (i) (ej. 高い takai, 大きい ookii).\n Presente afirmativo: 高い です (takai desu)\n Presente negativo: 高くないです (takaku nai desu) / 高くありません (takaku arimasen)\n Pasado afirmativo: 高かったです (takakatta desu)\n Pasado negativo: 高くなかったです (takaku nakatta desu)\n(Excepción: いい (ii - bueno) cambia a よい (yoi) al conjugar: よくないです, よかったです, よく\nなかったです).*\nAdjetivos な (na-adjectives): No terminan en い funcional (ej. 静か shizuka, 暇 hima). Requieren\nな cuando modifican directamente a un sustantivo (ej. 静かな町 shizukana machi).\n Presente afirmativo: 静か です (shizuka desu)\n Presente negativo: 静か じゃないです (shizuka janai desu)\n Pasado afirmativo: 静か でした (shizuka deshita)\n Pasado negativo: 静か じゃなかったです (shizuka janakatta desu)\n2. Expresar gustos y aversiones: 好き (suki) y 嫌い (kirai)\nLas palabras 好き (suki - gustar) y 嫌い (kirai - no gustar) son adjetivos な. La persona u objeto que\ngusta o disgusta se marca con la partícula が (ga).\nEstructura:\n[Persona] は [Objeto/Persona] が 好きです / 嫌いです。\nEjemplos:\n わたしは海が好きです。\nRomaji: Watashi wa umi ga suki desu.\nEspañol: Me gusta el mar.\n たけしさんは野菜が嫌いです。\nRomaji: Takeshi-san wa yasai ga kirai desu.\nEspañol: A Takeshi no le gustan las verduras.\n 大好き (daisuki) = Encantar / Gustar mucho.\n 大嫌い (daikirai) = Odiar / Detestar.\n3. Modificación de sustantivos con adjetivos\n Adjetivo い + Sustantivo: おもしろい映画 (omoshiroi eiga - una película interesante).\n Adjetivo な + な + Sustantivo: きれいな写真 (kirei na shashin - una fotografía bonita).\n4. Proponer o sugerir acciones: 〜ましょう (mashou)\nSustituyendo 〜ます por 〜ましょう, se expresa \"¡Hagamos (algo)!\".\nEjemplos:\n 休みましょう。\nRomaji: Yasumimashou.\nEspañol: Descansemos.\n 写真を撮りましょう。\nRomaji: Shashin o torimashou.\nEspañol: Tomemos una foto.",
+      "kanji": [
+        {
+          "character": "上",
+          "reading": "ue/jou",
+          "meaning": "arriba",
+          "kana": "うえ / じょう"
+        },
+        {
+          "character": "下",
+          "reading": "shita/ka",
+          "meaning": "abajo",
+          "kana": "した / か"
+        },
+        {
+          "character": "中",
+          "reading": "naka/chuu",
+          "meaning": "dentro",
+          "kana": "なか / ちゅう"
+        },
+        {
+          "character": "半",
+          "reading": "han",
+          "meaning": "mitad",
+          "kana": "はん"
+        },
+        {
+          "character": "山",
+          "reading": "yama",
+          "meaning": "montaña",
+          "kana": "やま"
+        },
+        {
+          "character": "川",
+          "reading": "kawa",
+          "meaning": "río",
+          "kana": "かわ"
+        },
+        {
+          "character": "元",
+          "reading": "gen/moto",
+          "meaning": "origen",
+          "kana": "げん / もと"
+        },
+        {
+          "character": "気",
+          "reading": "ki",
+          "meaning": "espíritu/energía",
+          "kana": "き"
+        },
+        {
+          "character": "天",
+          "reading": "ten",
+          "meaning": "cielo",
+          "kana": "てん"
+        },
+        {
+          "character": "私",
+          "reading": "watashi",
+          "meaning": "yo",
+          "kana": "わたし"
+        },
+        {
+          "character": "今",
+          "reading": "ima",
+          "meaning": "ahora",
+          "kana": "こん / いま"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Lección 6",
+      "vocabulary": [
+        {
+          "jp": "電気",
+          "romaji": "denki",
+          "es": "electricidad / luz",
+          "category": "Sustantivos y Expresiones",
+          "reading": "でんき"
+        },
+        {
+          "jp": "荷物",
+          "romaji": "nimotsu",
+          "es": "equipaje / paquete",
+          "category": "Sustantivos y Expresiones",
+          "reading": "にもつ"
+        },
+        {
+          "jp": "パスポート",
+          "romaji": "pasupooto",
+          "es": "pasaporte",
+          "category": "Sustantivos y Expresiones"
+        },
+        {
+          "jp": "パソコン",
+          "romaji": "pasokon",
+          "es": "computadora personal",
+          "category": "Sustantivos y Expresiones"
+        },
+        {
+          "jp": "ページ",
+          "romaji": "peeji",
+          "es": "página",
+          "category": "Sustantivos y Expresiones"
+        },
+        {
+          "jp": "窓",
+          "romaji": "mado",
+          "es": "ventana",
+          "category": "Sustantivos y Expresiones",
+          "reading": "まど"
+        },
+        {
+          "jp": "夜",
+          "romaji": "yoru",
+          "es": "noche",
+          "category": "Sustantivos y Expresiones",
+          "reading": "よる"
+        },
+        {
+          "jp": "大変な",
+          "romaji": "taihen na",
+          "es": "difícil / duro / pesado",
+          "category": "Sustantivos y Expresiones",
+          "reading": "たいへんな"
+        },
+        {
+          "jp": "後で",
+          "romaji": "atode",
+          "es": "más tarde",
+          "category": "Sustantivos y Expresiones",
+          "reading": "あとで"
+        },
+        {
+          "jp": "遅く",
+          "romaji": "osoku",
+          "es": "tarde (en tiempo)",
+          "category": "Sustantivos y Expresiones",
+          "reading": "おそく"
+        },
+        {
+          "jp": "〜から",
+          "romaji": "kara",
+          "es": "porque / ya que",
+          "category": "Sustantivos y Expresiones"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "開ける",
+          "romaji": "akeru",
+          "es": "abrir",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "開けます",
+          "te": "開けて",
+          "past": "開けた",
+          "reading": "あける"
+        },
+        {
+          "jp": "教える",
+          "romaji": "oshieru",
+          "es": "enseñar / decir (información)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "教えます",
+          "te": "教えて",
+          "past": "教えた",
+          "reading": "おしえる"
+        },
+        {
+          "jp": "降りる",
+          "romaji": "oriru",
+          "es": "bajarse de (un vehículo)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "降ります",
+          "te": "降りて",
+          "past": "降りた",
+          "reading": "ふる"
+        },
+        {
+          "jp": "借りる",
+          "romaji": "kariru",
+          "es": "pedir prestado",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "借ります",
+          "te": "借りて",
+          "past": "借りた",
+          "reading": "かりる"
+        },
+        {
+          "jp": "閉める",
+          "romaji": "shimeru",
+          "es": "cerrar",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "閉めます",
+          "te": "閉めて",
+          "past": "閉めた",
+          "reading": "しめる"
+        },
+        {
+          "jp": "シャワーを浴びる",
+          "romaji": "shawaa o abiru",
+          "es": "tomar una ducha",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "シャワーを浴びます",
+          "te": "シャワーを浴びて",
+          "past": "シャワーを浴びた",
+          "reading": "しゃわーをあびる"
+        },
+        {
+          "jp": "つける",
+          "romaji": "tsukeru",
+          "es": "encender (luz/aparatos)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "つけます",
+          "te": "つけて",
+          "past": "つけた"
+        },
+        {
+          "jp": "忘れる",
+          "romaji": "wasureru",
+          "es": "olvidar",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "忘れます",
+          "te": "忘れて",
+          "past": "忘れた",
+          "reading": "わすれる"
+        },
+        {
+          "jp": "降りる",
+          "romaji": "furu",
+          "es": "caer (lluvia/nieve)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "降りります",
+          "te": "降りって",
+          "past": "降りった",
+          "reading": "ふる"
+        },
+        {
+          "jp": "急ぐ",
+          "romaji": "isogu",
+          "es": "darse prisa",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "急ぎます",
+          "te": "急いで",
+          "past": "急いだ",
+          "reading": "いそぐ"
+        },
+        {
+          "jp": "お風呂に入る",
+          "romaji": "ofuro ni hairu",
+          "es": "tomar un baño",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "お風呂に入ります",
+          "te": "お風呂に入って",
+          "past": "お風呂に入った",
+          "reading": "おふろにはいる"
+        },
+        {
+          "jp": "返す",
+          "romaji": "kaesu",
+          "es": "devolver (algo)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "返します",
+          "te": "返して",
+          "past": "返した",
+          "reading": "かえす"
+        },
+        {
+          "jp": "消す",
+          "romaji": "kesu",
+          "es": "apagar / borrar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "消します",
+          "te": "消して",
+          "past": "消した",
+          "reading": "けす"
+        },
+        {
+          "jp": "死ぬ",
+          "romaji": "shinu",
+          "es": "morir",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "死にます",
+          "te": "死んで",
+          "past": "死んだ",
+          "reading": "しぬ"
+        },
+        {
+          "jp": "座る",
+          "romaji": "suwaru",
+          "es": "sentarse",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "座ります",
+          "te": "座って",
+          "past": "座った",
+          "reading": "すわる"
+        },
+        {
+          "jp": "立つ",
+          "romaji": "tatsu",
+          "es": "ponerse de pie",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "立ちます",
+          "te": "立って",
+          "past": "立った",
+          "reading": "たつ"
+        },
+        {
+          "jp": "吸う",
+          "romaji": "suu",
+          "es": "fumar (tabaco)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "吸います",
+          "te": "吸って",
+          "past": "吸った",
+          "reading": "すう"
+        },
+        {
+          "jp": "手伝う",
+          "romaji": "tetsudau",
+          "es": "ayudar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "手伝います",
+          "te": "手伝って",
+          "past": "手伝った",
+          "reading": "てつだう"
+        },
+        {
+          "jp": "入る",
+          "romaji": "hairu",
+          "es": "entrar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "入ります",
+          "te": "入って",
+          "past": "入った",
+          "reading": "はいる"
+        },
+        {
+          "jp": "持つ",
+          "romaji": "motsu",
+          "es": "tener / sostener / llevar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "持ちます",
+          "te": "持って",
+          "past": "持った",
+          "reading": "もつ"
+        },
+        {
+          "jp": "休む",
+          "romaji": "yasumu",
+          "es": "descansar / faltar a",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "休みます",
+          "te": "休んで",
+          "past": "休んだ",
+          "reading": "やすむ"
+        },
+        {
+          "jp": "連れてくる",
+          "romaji": "tsurete kuru",
+          "es": "traer (a una persona)",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "連れて来ます",
+          "te": "連れて来て",
+          "past": "連れて来た",
+          "reading": "つれてくる"
+        },
+        {
+          "jp": "持ってくる",
+          "romaji": "motte kuru",
+          "es": "traer (un objeto)",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "持って来ます",
+          "te": "持って来て",
+          "past": "持って来た",
+          "reading": "もってくる"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "映画を見ませんか。",
+          "es": "¿Vemos una película?"
+        },
+        {
+          "jp": "写真を撮ります。",
+          "es": "Tomo una foto."
+        },
+        {
+          "jp": "友達に会います。",
+          "es": "Me encuentro con un amigo."
+        },
+        {
+          "jp": "日本語を話します。",
+          "es": "Hablo japonés."
+        }
+      ],
+      "grammar": [
+        "La forma て (Te-form) de los verbos",
+        "Pedir por favor que hagan algo: 〜てください (te kudasai)",
+        "Pedir permiso: 〜てもいいですか (te mo ii desu ka)",
+        "Prohibir una acción: 〜てはいけません (te wa ikemasen)",
+        "Conectar acciones en secuencia: Forma て"
+      ],
+      "grammarText": "1. La forma て (Te-form) de los verbos\nLa forma て es una de las construcciones más importantes del japonés. No expresa tiempo\ngramatical por sí sola, sino que sirve para conectar oraciones, hacer peticiones, pedir permiso, entre\notros.\nReglas de conjugación para la forma て:\nVerbos RU (Grupo 2):\nSustituir る por て.\n 食べる (taberu) -> 考えて -> 食べて (tabete)\n 見る (miru) -> 見て (mite)\nVerbos U (Grupo 1):\nDepende de la sílaba final en la forma diccionario:\n う, つ, る -> cambiar por 〜って\no 買う (kau) -> 買って (katte)\no 待つ (matsu) -> 待って (matte)\no 撮る (toru) -> 撮って (totte)\n む, ぶ, ぬ -> cambiar por 〜んで\no 飲む (nomu) -> 飲んで (nonde)\no 読む (yomu) -> 読んで (yonde)\no 死ぬ (shinu) -> 死んで (shinde)\n く -> cambiar por 〜いて (Excepción: 行く iku -> 行いて X -> 行って itte)\no 書く (kaku) -> 書いて (kaite)\n ぐ -> cambiar por 〜いで\no 泳ぐ (oyogu) -> 泳いで (oyoide)\n す -> cambiar por 〜して\no 話す (hanasu) -> 話して (hanashite)\nVerbos Irregulares (Grupo 3):\n する (suru) -> して (shite)\n くる (kuru) -> きて (kite)\n2. Pedir por favor que hagan algo: 〜てください (te kudasai)\nSe añade ください a la forma て de un verbo para hacer una petición formal pero amable.\nEjemplos:\n 教科書を見てください。\nRomaji: Kyoukasho o mite kudasai.\nEspañol: Por favor, miren el libro de texto.\n ここに名前を書いてください。\nRomaji: Koko ni namae o kaite kudasai.\nEspañol: Por favor, escriba su nombre aquí.\n3. Pedir permiso: 〜てもいいですか (te mo ii desu ka)\nAñadiendo 〜もいいですか a la forma て del verbo, se pregunta si está permitido realizar una\nacción (\"¿Puedo...?\").\nEjemplos:\n 写真を撮ってもいいですか。\n\n\nRomaji: Shashin o totte mo ii desu ka.\nEspañol: ¿Puedo tomar una foto?\n ここに座ってもいいですか。\nRomaji: Koko ni suwatte mo ii desu ka.\nEspañol: ¿Puedo sentarme aquí?\n4. Prohibir una acción: 〜てはいけません (te wa ikemasen)\nAñadiendo 〜はいけません a la forma て del verbo, se indica una prohibición explícita (\"No\ndebes...\", \"Está prohibido...\").\nEjemplos:\n ここで写真を撮ってはいけません。\nRomaji: Koko de shashin o totte wa ikemasen.\nEspañol: No debes tomar fotos aquí.\n 教室で寝てはいけません。\nRomaji: Kyoushitsu de nete wa ikemasen.\nEspañol: No se debe dormir en el salón de clases.\n5. Conectar acciones en secuencia: Forma て\nPara unir dos o más acciones consecutivas en una misma oración, se usa la forma て en los verbos\nanteriores y solo el último verbo lleva el tiempo gramatical de la oración.\nEjemplos:\n 昨日は六時に起きて、朝ご飯を食べて、学校に行きました。\nRomaji: Kinou wa roku-ji ni okite, asagohan o tabete, gakkou ni ikimashita.\nEspañol: Ayer me levanté a las 6:00, desayuné y fui a la escuela.",
+      "kanji": [
+        {
+          "character": "東",
+          "reading": "higashi/tou",
+          "meaning": "este",
+          "kana": "ひがし / とう"
+        },
+        {
+          "character": "西",
+          "reading": "nishi/sai",
+          "meaning": "oeste",
+          "kana": "にし / さい"
+        },
+        {
+          "character": "南",
+          "reading": "minami/nan",
+          "meaning": "sur",
+          "kana": "みなみ / なん"
+        },
+        {
+          "character": "北",
+          "reading": "kita/hoku",
+          "meaning": "norte",
+          "kana": "きた / ほく"
+        },
+        {
+          "character": "口",
+          "reading": "guchi/kou",
+          "meaning": "boca/salida",
+          "kana": "ぐち / こう"
+        },
+        {
+          "character": "出",
+          "reading": "de/datsu",
+          "meaning": "salir",
+          "kana": "で / だつ"
+        },
+        {
+          "character": "右",
+          "reading": "migi",
+          "meaning": "derecha",
+          "kana": "みぎ"
+        },
+        {
+          "character": "左",
+          "reading": "hidari",
+          "meaning": "izquierda",
+          "kana": "ひだり"
+        },
+        {
+          "character": "分",
+          "reading": "fun/pun/wakaru",
+          "meaning": "minuto/entender",
+          "kana": "ふん / ぷん / わかる"
+        },
+        {
+          "character": "先",
+          "reading": "saki/sen",
+          "meaning": "antes/previo",
+          "kana": "さき / せん"
+        },
+        {
+          "character": "生",
+          "reading": "sei/uma",
+          "meaning": "nacer/vida",
+          "kana": "せい / うま"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Lección 7",
+      "vocabulary": [
+        {
+          "jp": "髪",
+          "romaji": "kami",
+          "es": "cabello",
+          "category": "Sustantivos - Descripción Física y Cuerpo",
+          "reading": "かみ"
+        },
+        {
+          "jp": "口",
+          "romaji": "kuchi",
+          "es": "boca",
+          "category": "Sustantivos - Descripción Física y Cuerpo",
+          "reading": "くち"
+        },
+        {
+          "jp": "目",
+          "romaji": "me",
+          "es": "ojo",
+          "category": "Sustantivos - Descripción Física y Cuerpo",
+          "reading": "め"
+        },
+        {
+          "jp": "眼鏡",
+          "romaji": "megane",
+          "es": "anteojos / gafas",
+          "category": "Sustantivos - Descripción Física y Cuerpo",
+          "reading": "めがね"
+        },
+        {
+          "jp": "背",
+          "romaji": "se",
+          "es": "estatura",
+          "category": "Sustantivos - Descripción Física y Cuerpo",
+          "reading": "せ"
+        },
+        {
+          "jp": "家族",
+          "romaji": "kazoku",
+          "es": "familia",
+          "category": "Sustantivos - Familia",
+          "reading": "かぞく"
+        },
+        {
+          "jp": "お父さん",
+          "romaji": "otousan",
+          "es": "padre (de alguien más)",
+          "category": "Sustantivos - Familia",
+          "reading": "おとうさん"
+        },
+        {
+          "jp": "父",
+          "romaji": "chichi",
+          "es": "mi padre",
+          "category": "Sustantivos - Familia",
+          "reading": "ちち"
+        },
+        {
+          "jp": "お母さん",
+          "romaji": "okaasan",
+          "es": "madre (de alguien más)",
+          "category": "Sustantivos - Familia",
+          "reading": "おかあさん"
+        },
+        {
+          "jp": "母",
+          "romaji": "haha",
+          "es": "mi madre",
+          "category": "Sustantivos - Familia",
+          "reading": "はは"
+        },
+        {
+          "jp": "お兄さん",
+          "romaji": "oniisan",
+          "es": "hermano mayor",
+          "category": "Sustantivos - Familia",
+          "reading": "おにいさん"
+        },
+        {
+          "jp": "兄",
+          "romaji": "ani",
+          "es": "mi hermano mayor",
+          "category": "Sustantivos - Familia",
+          "reading": "あに"
+        },
+        {
+          "jp": "お姉さん",
+          "romaji": "oneesan",
+          "es": "hermana mayor",
+          "category": "Sustantivos - Familia",
+          "reading": "おねえさん"
+        },
+        {
+          "jp": "姉",
+          "romaji": "ane",
+          "es": "mi hermana mayor",
+          "category": "Sustantivos - Familia",
+          "reading": "あね"
+        },
+        {
+          "jp": "弟",
+          "romaji": "otouto",
+          "es": "hermano menor",
+          "category": "Sustantivos - Familia",
+          "reading": "おとうと"
+        },
+        {
+          "jp": "妹",
+          "romaji": "imouto",
+          "es": "hermana menor",
+          "category": "Sustantivos - Familia",
+          "reading": "いもうと"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "着る",
+          "romaji": "kiru",
+          "es": "vestirse (de la cintura para arriba)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "着ます",
+          "te": "着て",
+          "past": "着た",
+          "reading": "きる"
+        },
+        {
+          "jp": "勤める",
+          "romaji": "tsutomeru",
+          "es": "trabajar para / estar empleado en (lugar に)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "勤めます",
+          "te": "勤めて",
+          "past": "勤めた",
+          "reading": "つとめる"
+        },
+        {
+          "jp": "やせる",
+          "romaji": "yaseru",
+          "es": "adelgazar",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "やせます",
+          "te": "やせて",
+          "past": "やせた"
+        },
+        {
+          "jp": "游ぐ",
+          "romaji": "oyogu",
+          "es": "nadar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "游ぎます",
+          "te": "游いで",
+          "past": "游いだ",
+          "reading": "およぐ"
+        },
+        {
+          "jp": "覚える",
+          "romaji": "oboeru",
+          "es": "recordar / memorizar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "覚えります",
+          "te": "覚えって",
+          "past": "覚えった",
+          "reading": "おぼえる"
+        },
+        {
+          "jp": "終わる",
+          "romaji": "owaru",
+          "es": "terminar / acabar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "終わります",
+          "te": "終わって",
+          "past": "終わった",
+          "reading": "おわる"
+        },
+        {
+          "jp": "買う",
+          "romaji": "kau",
+          "es": "criar (mascotas)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "買います",
+          "te": "買って",
+          "past": "買った",
+          "reading": "かう"
+        },
+        {
+          "jp": "歌う",
+          "romaji": "utau",
+          "es": "cantar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "歌います",
+          "te": "歌って",
+          "past": "歌った",
+          "reading": "うたう"
+        },
+        {
+          "jp": "被る",
+          "romaji": "kaburu",
+          "es": "ponerse (sombrero/gorra)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "被ります",
+          "te": "被って",
+          "past": "被った",
+          "reading": "かぶる"
+        },
+        {
+          "jp": "知る",
+          "romaji": "shiru",
+          "es": "conocer / saber",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "知ります",
+          "te": "知って",
+          "past": "知った",
+          "reading": "しる"
+        },
+        {
+          "jp": "住む",
+          "romaji": "sumu",
+          "es": "vivir en (lugar に)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "住みます",
+          "te": "住んで",
+          "past": "住んだ",
+          "reading": "すむ"
+        },
+        {
+          "jp": "履く",
+          "romaji": "haku",
+          "es": "ponerse (pantalones/zapatos)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "履きます",
+          "te": "履いて",
+          "past": "履いた",
+          "reading": "はく"
+        },
+        {
+          "jp": "太る",
+          "romaji": "futoru",
+          "es": "engordar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "太ります",
+          "te": "太って",
+          "past": "太った",
+          "reading": "ふとる"
+        },
+        {
+          "jp": "結婚する",
+          "romaji": "kekkon suru",
+          "es": "casarse (con persona と)",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "結婚します",
+          "te": "結婚して",
+          "past": "結婚した",
+          "reading": "けっこんする"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "母に花をあげました。",
+          "es": "Le di flores a mi madre."
+        },
+        {
+          "jp": "誕生日にプレゼントをもらいました。",
+          "es": "Recibí un regalo por mi cumpleaños."
+        },
+        {
+          "jp": "友達に本を貸します。",
+          "es": "Le presto un libro a mi amigo."
+        },
+        {
+          "jp": "図書館で本を借ります。",
+          "es": "Pido libros prestados en la biblioteca."
+        }
+      ],
+      "grammar": [
+        "Estado continuo u ocupación habitual: 〜ている (te iru)",
+        "Descripción física: [Sustantivo] は [Parte del cuerpo] が [Adjetivo] です",
+        "Conexión de adjetivos (Forma て de los adjetivos)",
+        "Ir / Venir a hacer algo: [Lugar] へ [Base verbal / Sustantivo] に [行く/来る]",
+        "Contar personas: 〜人 (nin)"
+      ],
+      "grammarText": "1. Estado continuo u ocupación habitual: 〜ている (te iru)\nCombinando la forma て con el verbo いる (iru), se forman dos significados principales según el\ntipo de verbo:\n Acción en progreso (gerundio): \"Estar haciendo...\"\no 今日本語を勉強しています。 (Ima nihongo o benkyou shite imasu - Ahora estoy\nestudiando japonés).\n Estado resultante o continuo de una acción previa:\no 結婚しています。 (Kekkon shite imasu - Estoy casado/a).\no 東京に住んでいます。 (Toukyou ni sumde imasu - Vivo en Tokio).\no 知っています。 (Shitte imasu - Lo sé / Conozco).\n2. Descripción física: [Sustantivo] は [Parte del cuerpo] が [Adjetivo] です\nPara describir rasgos físicos de una persona se usa la estructura con partículas は y が.\nEjemplos:\n メアリーさんは目が大きいです。\nRomaji: Mearii-san wa me ga ookii desu.\nEspañol: Mary tiene los ojos grandes.\n たけしさんは背が高いです。\nRomaji: Takeshi-san wa se ga takai desu.\nEspañol: Takeshi es alto (de estatura).\n3. Conexión de adjetivos (Forma て de los adjetivos)\nPara conectar dos o más adjetivos en una sola frase:\n Adjetivos い: Cambiar la い final por 〜くて.\no 安い + 美味しい -> 安くておいしい (Yasukute oishii - Barato y delicioso).\n Adjetivos な: Añadir 〜で.\no 静か + きれい -> 静かできれい (Shizuka de kirei - Tranquilo y bonito).\nEjemplos:\n ホテルは新しくてきれいでした。\nRomaji: Hoteru wa atarashikute kirei deshita.\nEspañol: El hotel era nuevo y limpio.\n4. Ir / Venir a hacer algo: [Lugar] へ [Base verbal / Sustantivo] に [行く/来る]\nIndica el propósito de ir o venir a un lugar. Se utiliza la raíz o base del verbo (la parte que queda al\nquitar ます) seguida de に.\nEjemplos:\n 図書館へ本を借りに行きます。\nRomaji: Toshokan e hon o kari ni ikimasu.\nEspañol: Voy a la biblioteca a pedir prestado un libro.\n 喫茶店へコーヒーを飲みに行きましょう。\nRomaji: Kissaten e koohii o nomi ni ikimashou.\nEspañol: Vamos a la cafetería a tomar un café.\n5. Contar personas: 〜人 (nin)\n 1 persona = 一人 / ひとり (hitori)\n\n\n 2 personas = 二人 / ふたり (futari)\n 3 personas = 三人 / さんにん (sannin)\n 4 personas = 四人 / よにん (yonin)",
+      "kanji": [
+        {
+          "character": "大",
+          "reading": "oo/dai",
+          "meaning": "grande",
+          "kana": "おお / だい"
+        },
+        {
+          "character": "学",
+          "reading": "gaku",
+          "meaning": "estudio",
+          "kana": "がく"
+        },
+        {
+          "character": "外",
+          "reading": "soto/gai",
+          "meaning": "fuera",
+          "kana": "そと / がい"
+        },
+        {
+          "character": "国",
+          "reading": "koku/kuni",
+          "meaning": "país",
+          "kana": "こく / くに"
+        },
+        {
+          "character": "行",
+          "reading": "i/kou",
+          "meaning": "ir",
+          "kana": "い / こう"
+        },
+        {
+          "character": "来",
+          "reading": "ki/ku/rai",
+          "meaning": "venir",
+          "kana": "き / く / らい"
+        },
+        {
+          "character": "校",
+          "reading": "kou",
+          "meaning": "escuela",
+          "kana": "こう"
+        },
+        {
+          "character": "高",
+          "reading": "taka/kou",
+          "meaning": "alto",
+          "kana": "たか / こう"
+        },
+        {
+          "character": "小",
+          "reading": "chiisa/shou",
+          "meaning": "pequeño",
+          "kana": "ちい / しょう"
+        },
+        {
+          "character": "会",
+          "reading": "a/kai",
+          "meaning": "encontrar/reunión",
+          "kana": "あ / かい"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Lección 8",
+      "vocabulary": [
+        {
+          "jp": "上手な",
+          "romaji": "jouzu na",
+          "es": "ser bueno en / hábil",
+          "category": "Adjetivos y Expresiones",
+          "reading": "じょうずな"
+        },
+        {
+          "jp": "下手な",
+          "romaji": "heta na",
+          "es": "ser malo en / torpe",
+          "category": "Adjetivos y Expresiones",
+          "reading": "へたな"
+        },
+        {
+          "jp": "有名な",
+          "romaji": "yuumei na",
+          "es": "famoso",
+          "category": "Adjetivos y Expresiones",
+          "reading": "ゆうめいな"
+        },
+        {
+          "jp": "おなかがすく",
+          "romaji": "onaka ga suku",
+          "es": "tener hambre",
+          "category": "Adjetivos y Expresiones"
+        },
+        {
+          "jp": "何も",
+          "romaji": "nanimo",
+          "es": "nada (+ verbo negativo)",
+          "category": "Adjetivos y Expresiones",
+          "reading": "なにも"
+        },
+        {
+          "jp": "何か",
+          "romaji": "nanika",
+          "es": "algo",
+          "category": "Adjetivos y Expresiones",
+          "reading": "なにか"
+        },
+        {
+          "jp": "〜と言っていました",
+          "romaji": "to itte imashita",
+          "es": "dijo que...",
+          "category": "Adjetivos y Expresiones"
+        },
+        {
+          "jp": "〜と思います",
+          "romaji": "to omoimasu",
+          "es": "creo que...",
+          "category": "Adjetivos y Expresiones"
+        },
+        {
+          "jp": "雨",
+          "romaji": "ame",
+          "es": "lluvia",
+          "category": "Sustantivos",
+          "reading": "あめ"
+        },
+        {
+          "jp": "会社",
+          "romaji": "kaisha",
+          "es": "empresa / compañía",
+          "category": "Sustantivos",
+          "reading": "かいしゃ"
+        },
+        {
+          "jp": "カメラ",
+          "romaji": "kamera",
+          "es": "cámara",
+          "category": "Sustantivos"
+        },
+        {
+          "jp": "カラオケ",
+          "romaji": "karaoke",
+          "es": "karaoke",
+          "category": "Sustantivos"
+        },
+        {
+          "jp": "空気",
+          "romaji": "kuuki",
+          "es": "aire / atmósfera",
+          "category": "Sustantivos",
+          "reading": "くうき"
+        },
+        {
+          "jp": "車",
+          "romaji": "kuruma",
+          "es": "automóvil / coche",
+          "category": "Sustantivos",
+          "reading": "くるま"
+        },
+        {
+          "jp": "専門",
+          "romaji": "senmon",
+          "es": "especialidad / profesión",
+          "category": "Sustantivos",
+          "reading": "せんもん"
+        },
+        {
+          "jp": "天気予報",
+          "romaji": "tenkiyohou",
+          "es": "pronóstico del tiempo",
+          "category": "Sustantivos",
+          "reading": "てんきよほう"
+        },
+        {
+          "jp": "トマト",
+          "romaji": "tomato",
+          "es": "tomate",
+          "category": "Sustantivos"
+        },
+        {
+          "jp": "破片",
+          "romaji": "hahen",
+          "es": "fragmento / pedazo",
+          "category": "Sustantivos",
+          "reading": "はへん"
+        },
+        {
+          "jp": "バーベキュー",
+          "romaji": "baabekyuu",
+          "es": "barbacoa / asado",
+          "category": "Sustantivos"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "捨てる",
+          "romaji": "suteru",
+          "es": "tirar / desechar",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "捨てます",
+          "te": "捨てて",
+          "past": "捨てた",
+          "reading": "すてる"
+        },
+        {
+          "jp": "始める",
+          "romaji": "hajimeru",
+          "es": "empezar / comenzar (transitivo)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "始めます",
+          "te": "始めて",
+          "past": "始めた",
+          "reading": "はじめる"
+        },
+        {
+          "jp": "洗う",
+          "romaji": "arau",
+          "es": "lavar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "洗います",
+          "te": "洗って",
+          "past": "洗った",
+          "reading": "あらう"
+        },
+        {
+          "jp": "飲む",
+          "romaji": "nomu",
+          "es": "beber",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "飲みます",
+          "te": "飲んで",
+          "past": "飲んだ",
+          "reading": "のむ"
+        },
+        {
+          "jp": "押す",
+          "romaji": "osu",
+          "es": "empujar / presionar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "押します",
+          "te": "押して",
+          "past": "押した",
+          "reading": "おす"
+        },
+        {
+          "jp": "おもう",
+          "romaji": "omou",
+          "es": "pensar / creer",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "おもいます",
+          "te": "おもって",
+          "past": "おもった"
+        },
+        {
+          "jp": "切る",
+          "romaji": "kiru",
+          "es": "cortar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "切ります",
+          "te": "切って",
+          "past": "切った",
+          "reading": "きる"
+        },
+        {
+          "jp": "作る",
+          "romaji": "tsukuru",
+          "es": "hacer / preparar / fabricar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "作ります",
+          "te": "作って",
+          "past": "作った",
+          "reading": "つくる"
+        },
+        {
+          "jp": "持っていく",
+          "romaji": "motte iku",
+          "es": "llevar (un objeto)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "持っていきます",
+          "te": "持っていいて",
+          "past": "持っていいた",
+          "reading": "もっていく"
+        },
+        {
+          "jp": "じろじろ見る",
+          "romaji": "jirojiro miru",
+          "es": "mirar fijamente / mirar de arriba abajo",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "じろじろ見ます",
+          "te": "じろじろ見て",
+          "past": "じろじろ見た",
+          "reading": "じろじろみる"
+        },
+        {
+          "jp": "運転する",
+          "romaji": "unten suru",
+          "es": "conducir / manejar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "運転します",
+          "te": "運転して",
+          "past": "運転した",
+          "reading": "うんてんする"
+        },
+        {
+          "jp": "洗濯する",
+          "romaji": "sentaku suru",
+          "es": "lavar la ropa",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "洗濯します",
+          "te": "洗濯して",
+          "past": "洗濯した",
+          "reading": "せんたくする"
+        },
+        {
+          "jp": "掃除する",
+          "romaji": "souji suru",
+          "es": "limpiar / hacer el aseo",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "掃除します",
+          "te": "掃除して",
+          "past": "掃除した",
+          "reading": "そうじする"
+        },
+        {
+          "jp": "料理する",
+          "romaji": "ryouri suru",
+          "es": "cocinar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "料理します",
+          "te": "料理して",
+          "past": "料理した",
+          "reading": "りょうりする"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "今日はいい天気です。",
+          "es": "Hoy hace buen tiempo."
+        },
+        {
+          "jp": "明日は雨が降ると思います。",
+          "es": "Creo que mañana lloverá."
+        },
+        {
+          "jp": "東京に住んでいます。",
+          "es": "Vivo en Tokio."
+        },
+        {
+          "jp": "日本のことを知っています。",
+          "es": "Conozco cosas sobre Japón."
+        }
+      ],
+      "grammar": [
+        "Forma corta / informal (Short Form)",
+        "Discurso indirecto: 〜と思います (To omoimasu - Creo que / Pienso que)",
+        "Citas indirectas: 〜と言っていました (To itte imashita - Dijo que...)",
+        "Petición de no hacer algo: 〜ないでください (naide kudasai)",
+        "Sustantivación de verbos con の: Verb (Forma corta) + のが好きです/上手です"
+      ],
+      "grammarText": "1. Forma corta / informal (Short Form)\nEn japonés, la forma corta (o informal) se utiliza en conversaciones casuales entre amigos, familiares\no personas de confianza. También es indispensable para construir diversas estructuras gramaticales\ncomplejas.\nVerbos (Presente Afirmativo y Negativo):\n Afirmativo: Corresponde a la forma de diccionario (jishokei).\no 食べる (taberu) / 飲む (nomu) / する (suru) / くる (kuru)\n Negativo (Forma 〜ない):\no Verbos RU: Quitar る y añadir ない. (食べる -> 食べない tabenai)\no Verbos U: Cambiar la última vocal de -u a -a y añadir ない. (飲む -> 飲まない\nnomanai, 書く -> 書かない kakanai). (Excepción: Verbos que terminan en\nう cambian\na\nわ.\n買う ->\n買わない kawanai)\no Verbos Irregulares: する -> しない (shinai), くる -> こない (konai).\n(Excepción con\nある: El negativo de ある es ない nai).*\nAdjetivos y Sustantivos (Presente Afirmativo y Negativo):\n Adjetivos い:\no Afirmativo: かわいい (kawaii)\no Negativo: かわいくない (kawaikunai)\n Adjetivos な:\no Afirmativo: 静かだ (shizuka da) — sustituye です por だ.\no Negativo: 静かじゃない (shizuka janai)\n Sustantivos:\no Afirmativo: 学生だ (gakusei da) — sustituye です por だ.\no Negativo: 学生じゃない (gakusei janai)\n2. Discurso indirecto: 〜と思います (To omoimasu - Creo que / Pienso que)\nPara expresar opiniones, pensamientos o creencias, se utiliza la forma corta antes de と思います.\nEjemplos:\n 明日は雨が降ると思います。\nRomaji: Ashita wa ame ga furu to omoimasu.\nEspañol: Creo que mañana lloverá.\n たけしさんはメアリーさんが好きだと思います。\nRomaji: Takeshi-san wa Mearii-san ga suki da to omoimasu.\nEspañol: Creo que a Takeshi le gusta Mary.\n3. Citas indirectas: 〜と言っていました (To itte imashita - Dijo que...)\nPara reportar lo que otra persona ha dicho, se usa la forma corta antes de と言っていました.\nEjemplos:\n 田中さんは明日テストがないと言っていました。\nRomaji: Tanaka-san wa ashita tesuto ga nai to itte imashita.\nEspañol: Tanaka dijo que mañana no hay examen.\n4. Petición de no hacer algo: 〜ないでください (naide kudasai)\nSe añade 〜でください a la forma negativa corta del verbo (forma ない) para pedir a alguien que\nno haga algo.\n\n\nEjemplos:\n ここで写真を撮らないでください。\nRomaji: Koko de shashin o toranaide kudasai.\nEspañol: Por favor, no tome fotos aquí.\n 忘れないでください。\nRomaji: Wasurenaide kudasai.\nEspañol: Por favor, no lo olvide.\n5. Sustantivación de verbos con の: Verb (Forma corta) + のが好きです/上手です\nPara convertir un verbo en sustantivo (ej. \"el cantar\", \"cocinar\") se añade の después de la forma\ncorta del verbo.\nEjemplos:\n わたしは料理をすることが好きです。\nRomaji: Watashi wa ryouri o suru no ga suki desu.\nEspañol: Me gusta cocinar.\n たけしさんは日本語を話すのが上手です。\nRomaji: Takeshi-san wa nihongo o hanasu no ga jouzu desu.\nEspañol: Takeshi es bueno hablando japonés.",
+      "kanji": [
+        {
+          "character": "今",
+          "reading": "ima/kon",
+          "meaning": "ahora",
+          "kana": "こん / いま"
+        },
+        {
+          "character": "午",
+          "reading": "go",
+          "meaning": "mediodía",
+          "kana": "ご"
+        },
+        {
+          "character": "前",
+          "reading": "mae/zen",
+          "meaning": "antes/delante",
+          "kana": "まえ / ぜん"
+        },
+        {
+          "character": "後",
+          "reading": "ushiro/go/ato",
+          "meaning": "después/atrás",
+          "kana": "うしろ / ご / あと"
+        },
+        {
+          "character": "見",
+          "reading": "mi/ken",
+          "meaning": "ver",
+          "kana": "み / けん"
+        },
+        {
+          "character": "聞",
+          "reading": "ki/bun",
+          "meaning": "escuchar",
+          "kana": "き / ぶん"
+        },
+        {
+          "character": "食",
+          "reading": "ta/shoku",
+          "meaning": "comer",
+          "kana": "た / しょく"
+        },
+        {
+          "character": "飲",
+          "reading": "no/yin",
+          "meaning": "beber",
+          "kana": "の / いん"
+        },
+        {
+          "character": "買",
+          "reading": "ka/bai",
+          "meaning": "comprar",
+          "kana": "か / ばい"
+        },
+        {
+          "character": "物",
+          "reading": "mono/butsu",
+          "meaning": "cosa",
+          "kana": "もの / ぶつ"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Lección 9",
+      "vocabulary": [
+        {
+          "jp": "歌舞伎",
+          "romaji": "kabuki",
+          "es": "teatro tradicional Kabuki",
+          "category": "Sustantivos",
+          "reading": "かぶき"
+        },
+        {
+          "jp": "ギター",
+          "romaji": "gitaa",
+          "es": "guitarra",
+          "category": "Sustantivos"
+        },
+        {
+          "jp": "薬",
+          "romaji": "kusuri",
+          "es": "medicina",
+          "category": "Sustantivos",
+          "reading": "くすり"
+        },
+        {
+          "jp": "薬を飲む",
+          "romaji": "kusuri o nomu",
+          "es": "tomar medicina",
+          "category": "Sustantivos",
+          "reading": "くすりをのむ"
+        },
+        {
+          "jp": "コンサート",
+          "romaji": "konsaato",
+          "es": "concierto",
+          "category": "Sustantivos"
+        },
+        {
+          "jp": "今月",
+          "romaji": "kongetsu",
+          "es": "este mes",
+          "category": "Sustantivos",
+          "reading": "こんげつ"
+        },
+        {
+          "jp": "先月",
+          "romaji": "sengetsu",
+          "es": "el mes pasado",
+          "category": "Sustantivos",
+          "reading": "せんげつ"
+        },
+        {
+          "jp": "来月",
+          "romaji": "raigetsu",
+          "es": "el mes que viene / próximo mes",
+          "category": "Sustantivos",
+          "reading": "らいげつ"
+        },
+        {
+          "jp": "単語",
+          "romaji": "tango",
+          "es": "vocabulario / palabra",
+          "category": "Sustantivos",
+          "reading": "たんご"
+        },
+        {
+          "jp": "ピアノ",
+          "romaji": "piano",
+          "es": "piano",
+          "category": "Sustantivos"
+        },
+        {
+          "jp": "病気",
+          "romaji": "byouki",
+          "es": "enfermedad / enfermo",
+          "category": "Sustantivos",
+          "reading": "びょうき"
+        },
+        {
+          "jp": "青い",
+          "romaji": "aoi",
+          "es": "azul",
+          "category": "Adjetivos y Expresiones",
+          "reading": "あおい"
+        },
+        {
+          "jp": "赤い",
+          "romaji": "akai",
+          "es": "rojo",
+          "category": "Adjetivos y Expresiones",
+          "reading": "あかい"
+        },
+        {
+          "jp": "黒い",
+          "romaji": "kuroi",
+          "es": "negro",
+          "category": "Adjetivos y Expresiones",
+          "reading": "くろい"
+        },
+        {
+          "jp": "白い",
+          "romaji": "shiroi",
+          "es": "blanco",
+          "category": "Adjetivos y Expresiones",
+          "reading": "しろい"
+        },
+        {
+          "jp": "寂しい",
+          "romaji": "sabishii",
+          "es": "solitario / triste",
+          "category": "Adjetivos y Expresiones",
+          "reading": "さびしい"
+        },
+        {
+          "jp": "欲しい",
+          "romaji": "hoshii",
+          "es": "querer / desear (objeto が)",
+          "category": "Adjetivos y Expresiones",
+          "reading": "ほしい"
+        },
+        {
+          "jp": "いじわるな",
+          "romaji": "ijiwaru na",
+          "es": "malicioso / pesado",
+          "category": "Adjetivos y Expresiones"
+        },
+        {
+          "jp": "まだ",
+          "romaji": "mada",
+          "es": "aún no",
+          "category": "Adjetivos y Expresiones"
+        },
+        {
+          "jp": "もう",
+          "romaji": "mou",
+          "es": "ya",
+          "category": "Adjetivos y Expresiones"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "覚える",
+          "romaji": "oboeru",
+          "es": "memorizar / recordar",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "覚えます",
+          "te": "覚えて",
+          "past": "覚えた",
+          "reading": "おぼえる"
+        },
+        {
+          "jp": "出る",
+          "romaji": "deru",
+          "es": "salir / aparecer (en un evento に)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "出ます",
+          "te": "出て",
+          "past": "出た",
+          "reading": "でる"
+        },
+        {
+          "jp": "終わる",
+          "romaji": "owaru",
+          "es": "terminar / concluir",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "終わります",
+          "te": "終わって",
+          "past": "終わった",
+          "reading": "おわる"
+        },
+        {
+          "jp": "かかる",
+          "romaji": "kakaru",
+          "es": "tomar (tiempo o dinero)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "かかります",
+          "te": "かかって",
+          "past": "かかった"
+        },
+        {
+          "jp": "決める",
+          "romaji": "kimeru",
+          "es": "decidir (〜を)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "決めります",
+          "te": "決めって",
+          "past": "決めった",
+          "reading": "きめる"
+        },
+        {
+          "jp": "知り合う",
+          "romaji": "shiriau",
+          "es": "conocer a alguien (〜と)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "知り合います",
+          "te": "知り合って",
+          "past": "知り合った",
+          "reading": "しりあう"
+        },
+        {
+          "jp": "引く",
+          "romaji": "hiku",
+          "es": "tocar (instrumentos de cuerda o piano)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "引きます",
+          "te": "引いて",
+          "past": "引いた",
+          "reading": "ひく"
+        },
+        {
+          "jp": "弾く",
+          "romaji": "hiku",
+          "es": "tocar (piano/guitarra)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "弾きます",
+          "te": "弾いて",
+          "past": "弾いた",
+          "reading": "ひく"
+        },
+        {
+          "jp": "もらう",
+          "romaji": "morau",
+          "es": "recibir (de alguien に/から)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "もらいます",
+          "te": "もらって",
+          "past": "もらった"
+        },
+        {
+          "jp": "予約する",
+          "romaji": "yoyaku suru",
+          "es": "reservar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "予約します",
+          "te": "予約して",
+          "past": "予約した",
+          "reading": "よやくする"
+        },
+        {
+          "jp": "相談する",
+          "romaji": "soudan suru",
+          "es": "consultar (con alguien に)",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "相談します",
+          "te": "相談して",
+          "past": "相談した",
+          "reading": "そうだんする"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "スポーツが好きです。",
+          "es": "Me gustan los deportes."
+        },
+        {
+          "jp": "日本語が分かります。",
+          "es": "Entiendo japonés."
+        },
+        {
+          "jp": "料理ができます。",
+          "es": "Sé cocinar."
+        },
+        {
+          "jp": "犬が好きです。",
+          "es": "Me gustan los perros."
+        }
+      ],
+      "grammar": [
+        "Pasado de la forma corta (Short Form Past)",
+        "Discurso indirecto y citas en pasado",
+        "Modificación de sustantivos con oraciones complejas (Cláusulas relativas)",
+        "Ya / Aún no: もう (mou) y まだ (mada)"
+      ],
+      "grammarText": "1. Pasado de la forma corta (Short Form Past)\nPara hablar de acciones o situaciones pasadas de forma informal, se utiliza el pasado corto.\nVerbos (Pasado Afirmativo y Negativo):\n Afirmativo (Forma 〜た): Se construye con las mismas reglas que la forma て, cambiando\nて por た y で por だ.\no 食べる -> 食べた (tabeta)\no 飲む -> 飲んだ (nonda)\no 行く -> 行った (itta)\no する -> した (shita) / くる -> きた (kita)\n Negativo (Forma 〜なかった): Se toma la forma corta negativa (forma ない) y se cambia\nない por かった.\no 食べない -> 食べなかった (tabenakatta)\no 飲まない -> 飲まなかった (nomanatta)\no しない -> しなかった (shinakatta)\nAdjetivos y Sustantivos (Pasado Afirmativo y Negativo):\n Adjetivos い: かわいかった (kawaikatta) / かわいくなかった (kawaikunakatta)\n Adjetivos な: 静かだった (shizuka datta) / 静かじゃなかった (shizuka janakatta)\n Sustantivos: 学生だった (gakusei datta) / 学生じゃなかった (gakusei janakatta)\n2. Discurso indirecto y citas en pasado\nAl igual que en el presente, se aplica la forma corta en pasado antes de と思います o と言ってい\nました.\nEjemplos:\n 昨日の映画はおもしろかったと思います。\nRomaji: Kinou no eiga wa omoshirokatta to omoimasu.\nEspañol: Creo que la película de ayer estuvo divertida.\n たけしさんはテストが難しかったと言っていました。\nRomaji: Takeshi-san wa tesuto ga muzukashikatta to itte imashita.\nEspañol: Takeshi dijo que el examen estuvo difícil.\n3. Modificación de sustantivos con oraciones complejas (Cláusulas relativas)\nEn japonés, cualquier oración en forma corta puede colocarse directamente delante de un\nsustantivo para modificarlo (equivalente a las oraciones relativas con \"que\" en español).\nEjemplos:\n 昨日買った本\nRomaji: Kinou katta hon\nEspañol: El libro que compré ayer\n あそこで話している人は山下先生です。\nRomaji: Asoko de hanashite iru hito wa Yamashita sensei desu.\nEspañol: La persona que está hablando allá es el profesor Yamashita.\n4. Ya / Aún no: もう (mou) y まだ (mada)\n もう + Verbo en pasado: Ya se ha realizado la acción. (もう hanzou shimasu = Ya he\ncomido).\n\n\n まだ + Verbo en 〜ていません: Aún no se ha realizado la acción. (まだ 始めていません =\nAún no he empezado).",
+      "kanji": [
+        {
+          "character": "行",
+          "reading": "i/kou",
+          "meaning": "ir",
+          "kana": "い / こう"
+        },
+        {
+          "character": "来",
+          "reading": "ki/rai",
+          "meaning": "venir",
+          "kana": "き / く / らい"
+        },
+        {
+          "character": "帰",
+          "reading": "kae/ki",
+          "meaning": "regresar",
+          "kana": "かえ / き"
+        },
+        {
+          "character": "立",
+          "reading": "ta/ritsu",
+          "meaning": "ponerse de pie",
+          "kana": "た / りつ"
+        },
+        {
+          "character": "休",
+          "reading": "yasu/kyuu",
+          "meaning": "descansar",
+          "kana": "やす / きゅう"
+        },
+        {
+          "character": "言",
+          "reading": "i/gen",
+          "meaning": "decir",
+          "kana": "い / げん"
+        },
+        {
+          "character": "読",
+          "reading": "yo/doku",
+          "meaning": "leer",
+          "kana": "よ / どく"
+        },
+        {
+          "character": "書",
+          "reading": "ka/sho",
+          "meaning": "escribir",
+          "kana": "か / しょ"
+        },
+        {
+          "character": "話",
+          "reading": "hana/wa",
+          "meaning": "hablar",
+          "kana": "はな / わ"
+        },
+        {
+          "character": "名",
+          "reading": "na/mei",
+          "meaning": "nombre",
+          "kana": "な / めい"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Lección 10",
+      "vocabulary": [
+        {
+          "jp": "秋",
+          "romaji": "aki",
+          "es": "otoño",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "あき"
+        },
+        {
+          "jp": "冬",
+          "romaji": "fuyu",
+          "es": "invierno",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "ふゆ"
+        },
+        {
+          "jp": "春",
+          "romaji": "haru",
+          "es": "primavera",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "はる"
+        },
+        {
+          "jp": "夏",
+          "romaji": "natsu",
+          "es": "verano",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "なつ"
+        },
+        {
+          "jp": "季節",
+          "romaji": "kisetsu",
+          "es": "estación del año",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "きせつ"
+        },
+        {
+          "jp": "天気予報",
+          "romaji": "tenkiyohou",
+          "es": "pronóstico del tiempo",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "てんきよほう"
+        },
+        {
+          "jp": "雪",
+          "romaji": "yuki",
+          "es": "nieve",
+          "category": "Sustantivos - Estaciones y Clima",
+          "reading": "ゆき"
+        },
+        {
+          "jp": "空港",
+          "romaji": "kuukou",
+          "es": "aeropuerto",
+          "category": "Sustantivos - Transporte y Viajes",
+          "reading": "くうこう"
+        },
+        {
+          "jp": "新幹線",
+          "romaji": "shinkansen",
+          "es": "tren bala",
+          "category": "Sustantivos - Transporte y Viajes",
+          "reading": "しんかんせん"
+        },
+        {
+          "jp": "地下鉄",
+          "romaji": "chikatetsu",
+          "es": "metro / subterráneo",
+          "category": "Sustantivos - Transporte y Viajes",
+          "reading": "ちかてつ"
+        },
+        {
+          "jp": "船",
+          "romaji": "fune",
+          "es": "barco / buque",
+          "category": "Sustantivos - Transporte y Viajes",
+          "reading": "ふね"
+        },
+        {
+          "jp": "予約",
+          "romaji": "yoyaku",
+          "es": "reserva",
+          "category": "Sustantivos - Transporte y Viajes",
+          "reading": "よやく"
+        },
+        {
+          "jp": "世界",
+          "romaji": "sekai",
+          "es": "mundo",
+          "category": "Sustantivos - Otros",
+          "reading": "せかい"
+        },
+        {
+          "jp": "海外",
+          "romaji": "kaigai",
+          "es": "extranjero / ultramar",
+          "category": "Sustantivos - Otros",
+          "reading": "かいがい"
+        },
+        {
+          "jp": "有名",
+          "romaji": "yuumei",
+          "es": "famoso",
+          "category": "Sustantivos - Otros",
+          "reading": "ゆうめい"
+        },
+        {
+          "jp": "温泉",
+          "romaji": "onsen",
+          "es": "termas / aguas termales",
+          "category": "Sustantivos - Otros",
+          "reading": "おんせん"
+        },
+        {
+          "jp": "川",
+          "romaji": "kawa",
+          "es": "río",
+          "category": "Sustantivos - Otros",
+          "reading": "かわ"
+        },
+        {
+          "jp": "寿司",
+          "romaji": "sushi",
+          "es": "sushi",
+          "category": "Sustantivos - Otros",
+          "reading": "すし"
+        },
+        {
+          "jp": "暖かい",
+          "romaji": "atatakai",
+          "es": "cálido (clima)",
+          "category": "Adjetivos い",
+          "reading": "あたたかい"
+        },
+        {
+          "jp": "遅い",
+          "romaji": "osoi",
+          "es": "lento / tarde",
+          "category": "Adjetivos い",
+          "reading": "おそい"
+        },
+        {
+          "jp": "涼しい",
+          "romaji": "suzushii",
+          "es": "fresco (clima)",
+          "category": "Adjetivos い",
+          "reading": "すずしい"
+        },
+        {
+          "jp": "冷たい",
+          "romaji": "tsumetai",
+          "es": "frío (al tacto/objetos/bebidas)",
+          "category": "Adjetivos い",
+          "reading": "つめたい"
+        },
+        {
+          "jp": "早い",
+          "romaji": "hayai",
+          "es": "rápido / temprano",
+          "category": "Adjetivos い",
+          "reading": "速い"
+        },
+        {
+          "jp": "どちら",
+          "romaji": "dochira",
+          "es": "cuál de los dos",
+          "category": "Adverbios y Expresiones"
+        },
+        {
+          "jp": "どちらも",
+          "romaji": "dochira mo",
+          "es": "ambos / los dos",
+          "category": "Adverbios y Expresiones"
+        },
+        {
+          "jp": "一番",
+          "romaji": "ichiban",
+          "es": "el número uno / el más",
+          "category": "Adverbios y Expresiones",
+          "reading": "いちばん"
+        },
+        {
+          "jp": "〜のほうが",
+          "romaji": "no hou ga",
+          "es": "... es más",
+          "category": "Adverbios y Expresiones"
+        },
+        {
+          "jp": "〜より",
+          "romaji": "yori",
+          "es": "más que ...",
+          "category": "Adverbios y Expresiones"
+        },
+        {
+          "jp": "どこか",
+          "romaji": "dokoka",
+          "es": "algún lugar",
+          "category": "Adverbios y Expresiones"
+        },
+        {
+          "jp": "どこにも",
+          "romaji": "dokoni mo",
+          "es": "a ningún lugar (+ verbo negativo)",
+          "category": "Adverbios y Expresiones"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "かかる",
+          "romaji": "kakaru",
+          "es": "tardar (tiempo) / costar (dinero)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "かかります",
+          "te": "かかって",
+          "past": "かかった"
+        },
+        {
+          "jp": "泊まる",
+          "romaji": "tomaru",
+          "es": "hospedarse / alojarse en (lugar に)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "泊まります",
+          "te": "泊まって",
+          "past": "泊まった",
+          "reading": "とまる"
+        },
+        {
+          "jp": "なる",
+          "romaji": "naru",
+          "es": "convertirse en / llegar a ser",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "なります",
+          "te": "なって",
+          "past": "なった"
+        },
+        {
+          "jp": "払う",
+          "romaji": "harau",
+          "es": "pagar",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "払います",
+          "te": "払って",
+          "past": "払った",
+          "reading": "はらう"
+        },
+        {
+          "jp": "決める",
+          "romaji": "kimeru",
+          "es": "decidir",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "決めます",
+          "te": "決めて",
+          "past": "決めた",
+          "reading": "きめる"
+        },
+        {
+          "jp": "旅行する",
+          "romaji": "ryokou suru",
+          "es": "viajar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "旅行します",
+          "te": "旅行して",
+          "past": "旅行した",
+          "reading": "りょこうする"
+        },
+        {
+          "jp": "予約する",
+          "romaji": "yoyaku suru",
+          "es": "reservar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "予約します",
+          "te": "予約して",
+          "past": "予約した",
+          "reading": "よやくする"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "部屋に机があります。",
+          "es": "Hay un escritorio en la habitación."
+        },
+        {
+          "jp": "窓のそばに猫がいます。",
+          "es": "Hay un gato junto a la ventana."
+        },
+        {
+          "jp": "ここに座ってください。",
+          "es": "Por favor, siéntate aquí."
+        },
+        {
+          "jp": "ドアの前に立ちます。",
+          "es": "Me pongo de pie frente a la puerta."
+        }
+      ],
+      "grammar": [
+        "Comparaciones: 〜のほうが〜より (no hou ga ... yori)",
+        "Preguntar y responder entre dos opciones: A と B と どちら (A to B to dochira)",
+        "Superlativos: 〜の中で〜が一番 (no naka de ... ga ichiban)",
+        "Adjetivo + の (Sustantivador de adjetivos / Reemplazo de sustantivo)",
+        "Expresar la intención de hacer algo: 〜つもりです (tsumori desu)",
+        "Adjetivo + なる (naru - Volverse / Llegar a ser)"
+      ],
+      "grammarText": "1. Comparaciones: 〜のほうが〜より (no hou ga ... yori)\nPara comparar dos elementos (A y B) y decir que \"A es más [adjetivo] que B\":\nEstructura:\n[Elemento A] のほうが [Elemento B] より [Adjetivo] です。\n([Elemento A] no hou ga [Elemento B] yori [Adjetivo] desu.)\nEjemplos:\n 中国のほうが日本より広いです。\nRomaji: Chuugoku no hou ga Nihon yori hiroi desu.\nEspañol: China es más grande/extensa que Japón.\n バスより電車のほうが早いです。\nRomaji: Basu yori densha no hou ga hayai desu.\nEspañol: El tren es más rápido que el autobús.\n2. Preguntar y responder entre dos opciones: A と B と どちら (A to B to dochira)\nPara preguntar \"¿Cuál es más [adjetivo], A o B?\":\nEstructura de pregunta:\n[A] と [B] と どちらのほうが [Adjetivo] ですか。\nEstructura de respuesta:\n[A] のほうが [Adjetivo] です。\nEjemplos:\n 野球とサッカーとどちらのほうが面白いですか。\nRomaji: Yakyuu to sakkaa to dochira no hou ga omoshiroi desu ka.\nEspañol: Entre el béisbol y el fútbol, ¿cuál es más interesante?\n サッカーのほうが面白いです。\nRomaji: Sakkaa no hou ga omoshiroi desu.\nEspañol: El fútbol es más interesante.\n3. Superlativos: 〜の中で〜が一番 (no naka de ... ga ichiban)\nPara indicar que un elemento es el \"más [adjetivo]\" dentro de una categoría o grupo de tres o más\nopciones:\nEstructura:\n[Categoría/Grupo] の中で [Elemento/Interrogativo] が一番 [Adjetivo] ですか。\nEjemplos:\n 季節の中で秋が一番好きです。\nRomaji: Kisetsu no naka de aki ga ichiban suki desu.\nEspañol: De todas las estaciones, el otoño es la que más me gusta.\n クラスの中で誰が一番背が高いですか。\nRomaji: Kurasu no naka de dare ga ichiban se ga takai desu ka.\nEspañol: ¿Quién es la persona más alta de la clase?\n4. Adjetivo + の (Sustantivador de adjetivos / Reemplazo de sustantivo)\nCuando un sustantivo ya se ha mencionado, se puede reemplazar por の para evitar repeticiones.\nEjemplos:\n 赤い鞄と黒い鞄があります。黒いのをください。\nRomaji: Akai kaban to kuroi kaban ga arimasu. Kuroi no o kudasai.\nEspañol: Hay una bolsa roja y una negra. Deme la negra, por favor.\n\n\n5. Expresar la intención de hacer algo: 〜つもりです (tsumori desu)\nAñadiendo つもりです a la forma corta afirmativa o negativa de un verbo, se expresa una intención\no plan futuro (\"Tengo la intención de...\", \"Pienso...\").\nEjemplos:\n 冬休みに韓国に行くつもりです。\nRomaji: Fuyuyasumi ni Kankoku ni iku tsumori desu.\nEspañol: Tengo la intención de ir a Corea en las vacaciones de invierno.\n 明日はどこにも行かないつもりです。\nRomaji: Ashita wa doko ni mo ikanai tsumori desu.\nEspañol: Pienso no ir a ningún lado mañana.\n6. Adjetivo + なる (naru - Volverse / Llegar a ser)\nIndica un cambio de estado (\"convertirse en\", \"llegar a ser\"):\n Adjetivos い: Cambiar la い final por 〜くなる. (暖かい -> 暖かくなる atatakaku naru =\ncalentarse/volverse cálido).\n Adjetivos な / Sustantivos: Añadir 〜になる. (元気 -> 元気になる genki ni naru =\nrecuperarse/ponerse sano; 先生 -> 先生になる sensei ni naru = convertirse en profesor).",
+      "kanji": [
+        {
+          "character": "住",
+          "reading": "su/juu",
+          "meaning": "vivir",
+          "kana": "す / じゅう"
+        },
+        {
+          "character": "正",
+          "reading": "shou/tada",
+          "meaning": "correcto/verdadero",
+          "kana": "しょう / ただ"
+        },
+        {
+          "character": "年",
+          "reading": "nen/toshi",
+          "meaning": "año",
+          "kana": "ねん / とし"
+        },
+        {
+          "character": "売",
+          "reading": "uri/bai",
+          "meaning": "vender",
+          "kana": "う / ばい"
+        },
+        {
+          "character": "買",
+          "reading": "ka/bai",
+          "meaning": "comprar",
+          "kana": "か / ばい"
+        },
+        {
+          "character": "町",
+          "reading": "machi/chou",
+          "meaning": "pueblo/ciudad",
+          "kana": "まち / ちょう"
+        },
+        {
+          "character": "長",
+          "reading": "nagai/chou",
+          "meaning": "largo/jefe",
+          "kana": "なが / ちょう"
+        },
+        {
+          "character": "雪",
+          "reading": "yuki/setsu",
+          "meaning": "nieve",
+          "kana": "ゆき / せつ"
+        },
+        {
+          "character": "立",
+          "reading": "ta/ritsu",
+          "meaning": "de pie",
+          "kana": "た / りつ"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "Lección 11",
+      "vocabulary": [
+        {
+          "jp": "温泉",
+          "romaji": "onsen",
+          "es": "fuentes termales",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "おんせん"
+        },
+        {
+          "jp": "坂",
+          "romaji": "saka",
+          "es": "pendiente / cuesta",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "さか"
+        },
+        {
+          "jp": "寺",
+          "romaji": "tera",
+          "es": "templo budista",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "てら"
+        },
+        {
+          "jp": "神社",
+          "romaji": "jinja",
+          "es": "santuario sintoísta",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "じんじゃ"
+        },
+        {
+          "jp": "富士山",
+          "romaji": "fujisan",
+          "es": "monte Fuji",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "ふじさん"
+        },
+        {
+          "jp": "湖",
+          "romaji": "mizuumi",
+          "es": "lago",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "みずうみ"
+        },
+        {
+          "jp": "山",
+          "romaji": "yama",
+          "es": "montaña",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "やま"
+        },
+        {
+          "jp": "旅館",
+          "romaji": "ryokan",
+          "es": "posada tradicional japonesa",
+          "category": "Sustantivos - Turismo y Lugares",
+          "reading": "りょかん"
+        },
+        {
+          "jp": "歌舞伎",
+          "romaji": "kabuki",
+          "es": "teatro Kabuki",
+          "category": "Sustantivos - Diversión y Deportes",
+          "reading": "かぶき"
+        },
+        {
+          "jp": "スキー",
+          "romaji": "sukii",
+          "es": "esquí",
+          "category": "Sustantivos - Diversión y Deportes"
+        },
+        {
+          "jp": "釣り",
+          "romaji": "tsuri",
+          "es": "pesca",
+          "category": "Sustantivos - Diversión y Deportes",
+          "reading": "つり"
+        },
+        {
+          "jp": "散歩",
+          "romaji": "sanpo",
+          "es": "paseo / caminata",
+          "category": "Sustantivos - Diversión y Deportes",
+          "reading": "さんぽ"
+        },
+        {
+          "jp": "珍しい",
+          "romaji": "mezurashii",
+          "es": "raro / inusual",
+          "category": "Adjetivos y Expresiones",
+          "reading": "めずらしい"
+        },
+        {
+          "jp": "泊",
+          "romaji": "haku/paku",
+          "es": "contador de noches de estancia",
+          "category": "Adjetivos y Expresiones",
+          "reading": "〜はく"
+        },
+        {
+          "jp": "一回",
+          "romaji": "ikkai",
+          "es": "una vez",
+          "category": "Adjetivos y Expresiones",
+          "reading": "いっかい"
+        },
+        {
+          "jp": "〜回",
+          "romaji": "kai",
+          "es": "contador de veces",
+          "category": "Adjetivos y Expresiones",
+          "reading": "〜かい"
+        },
+        {
+          "jp": "何回",
+          "romaji": "nankai",
+          "es": "cuántas veces",
+          "category": "Adjetivos y Expresiones",
+          "reading": "なんかい"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "登る",
+          "romaji": "noboru",
+          "es": "escalar / subir (a una montaña 山に)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "登ります",
+          "te": "登って",
+          "past": "登った",
+          "reading": "のぼる"
+        },
+        {
+          "jp": "泊まる",
+          "romaji": "tomaru",
+          "es": "hospedarse en (lugar に)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "泊まります",
+          "te": "泊まって",
+          "past": "泊まった",
+          "reading": "とまる"
+        },
+        {
+          "jp": "磨く",
+          "romaji": "migaku",
+          "es": "cepillar / pulir (dientes 歯を)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "磨きます",
+          "te": "磨いて",
+          "past": "磨いた",
+          "reading": "みがく"
+        },
+        {
+          "jp": "疲れる",
+          "romaji": "tsukareru",
+          "es": "cansarse",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "疲れます",
+          "te": "疲れて",
+          "past": "疲れた",
+          "reading": "つかれる"
+        },
+        {
+          "jp": "辞める",
+          "romaji": "yameru",
+          "es": "dejar / renunciar a (trabajo/estudios)",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "辞めます",
+          "te": "辞めて",
+          "past": "辞めた",
+          "reading": "やめる"
+        },
+        {
+          "jp": "散歩する",
+          "romaji": "sanpo suru",
+          "es": "dar un paseo",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "散歩します",
+          "te": "散歩して",
+          "past": "散歩した",
+          "reading": "さんぽする"
+        },
+        {
+          "jp": "旅行する",
+          "romaji": "ryokou suru",
+          "es": "viajar",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "旅行します",
+          "te": "旅行して",
+          "past": "旅行した",
+          "reading": "りょこうする"
+        }
+      ],
+      "sentences": [
+        {
+          "jp": "趣味は旅行です。",
+          "es": "Mi afición es viajar."
+        },
+        {
+          "jp": "仕事を始めます。",
+          "es": "Empiezo el trabajo."
+        },
+        {
+          "jp": "宿題が終わりました。",
+          "es": "Terminé los deberes."
+        },
+        {
+          "jp": "新しい勉強を続けます。",
+          "es": "Continúo estudiando algo nuevo."
+        }
+      ],
+      "grammar": [
+        "Expresar deseos: 〜たい (tai - Querer hacer algo)",
+        "Ejemplos de acciones no exhaustivas: 〜たり〜たりする (tari ... tari suru)",
+        "Expresar experiencias pasadas: 〜たことがあります (ta koto ga arimasu)",
+        "Sustantivo A や Sustantivo B (Lista no exhaustiva de objetos)"
+      ],
+      "grammarText": "1. Expresar deseos: 〜たい (tai - Querer hacer algo)\nPara expresar que uno mismo desea realizar una acción, se toma la raíz del verbo (forma ます sin el\nます) y se le añade 〜たいです.\n Conjugación: Funciona exactamente igual que un Adjetivo い.\no Afirmativo: 食べたいです (tabetai desu - quiero comer)\no Negativo: 食べたくないです (tabetakunai desu - no quiero comer)\no Pasado: 食べたかったです (tabetakatta desu - quería comer)\no Pasado negativo: 食べたくなかったです (tabetakunakatta desu - no quería comer)\n Partículas: Se puede usar la partícula を o la partícula が para marcar el objeto directo con 〜\nたい.\no 寿司を食べたいです / 寿司が食べたいです。\n2. Ejemplos de acciones no exhaustivas: 〜たり〜たりする (tari ... tari suru)\nSirve para listar dos o más acciones a modo de ejemplo dentro de una lista no exhaustiva (\"hacer\ncosas como A y B\").\nEstructura:\n[Verbo A en forma た] り + [Verbo B en forma た] り する。\nEjemplos:\n 休みに本を読んだり、映画を見たりしました。\nRomaji: Yasumi ni hon o yondari, eiga o mitari shimashita.\nEspañol: En las vacaciones hice cosas como leer libros y ver películas.\n3. Expresar experiencias pasadas: 〜たことがあります (ta koto ga arimasu)\nPara decir que se tiene la experiencia de haber hecho algo alguna vez (\"He [hecho algo] antes\"):\nEstructura:\n[Verbo en forma た] ことがあります。\nEjemplos:\n わたしは富士山に登ったことがあります。\nRomaji: Watashi wa Fujisan ni nobotta koto ga arimasu.\nEspañol: He escalado el monte Fuji alguna vez.\n 歌舞伎を見たことがありません。\nRomaji: Kabuki o mita koto ga arimasen.\nEspañol: Nunca he visto teatro Kabuki.\n4. Sustantivo A や Sustantivo B (Lista no exhaustiva de objetos)\nA diferencia de と (que lista todos los elementos de un grupo de forma exhaustiva), la partícula や\nse usa para dar ejemplos incompletos (\"A, B, entre otros\").\nEjemplos:\n 京都で神社やお寺に行きました。\nRomaji: Kyouto de jinja ya otera ni ikimashita.\nEspañol: En Kioto fui a santuarios y templos (entre otros lugares).",
+      "kanji": [
+        {
+          "character": "夜",
+          "reading": "yoru/ya",
+          "meaning": "noche",
+          "kana": "よる / や"
+        },
+        {
+          "character": "朝",
+          "reading": "asa/chou",
+          "meaning": "mañana",
+          "kana": "あさ / ちょう"
+        },
+        {
+          "character": "持",
+          "reading": "mo/ji",
+          "meaning": "sostener/tener",
+          "kana": "も / じ"
+        },
+        {
+          "character": "手",
+          "reading": "te/shu",
+          "meaning": "mano",
+          "kana": "て / しゅ"
+        },
+        {
+          "character": "紙",
+          "reading": "kami/shi",
+          "meaning": "papel",
+          "kana": "かみ / し"
+        },
+        {
+          "character": "好",
+          "reading": "suki/kou",
+          "meaning": "gustar",
+          "kana": "すき / こう"
+        },
+        {
+          "character": "近",
+          "reading": "chikai/kin",
+          "meaning": "cerca",
+          "kana": "ちか / きん"
+        },
+        {
+          "character": "病",
+          "reading": "byou",
+          "meaning": "enfermedad",
+          "kana": "びょう"
+        },
+        {
+          "character": "院",
+          "reading": "in",
+          "meaning": "institución",
+          "kana": "いん"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "Enfermedad / En el médico",
+      "vocabulary": [
+        {
+          "jp": "頭",
+          "romaji": "atama",
+          "es": "cabeza",
+          "category": "Partes del cuerpo y Salud",
+          "reading": "あたま"
+        },
+        {
+          "jp": "おなか",
+          "romaji": "onaka",
+          "es": "estómago / vientre",
+          "category": "Partes del cuerpo y Salud"
+        },
+        {
+          "jp": "歯",
+          "romaji": "ha",
+          "es": "diente / dentadura",
+          "category": "Partes del cuerpo y Salud",
+          "reading": "は"
+        },
+        {
+          "jp": "熱",
+          "romaji": "netsu",
+          "es": "fiebre",
+          "category": "Partes del cuerpo y Salud",
+          "reading": "ねつ"
+        },
+        {
+          "jp": "風邪",
+          "romaji": "kaze",
+          "es": "resfriado",
+          "category": "Partes del cuerpo y Salud",
+          "reading": "かぜ"
+        },
+        {
+          "jp": "病気",
+          "romaji": "byouki",
+          "es": "enfermedad",
+          "category": "Partes del cuerpo y Salud",
+          "reading": "びょうき"
+        },
+        {
+          "jp": "薬",
+          "romaji": "kusuri",
+          "es": "medicina",
+          "category": "Partes del cuerpo y Salud",
+          "reading": "くすり"
+        },
+        {
+          "jp": "医者",
+          "romaji": "isha",
+          "es": "médico / doctor",
+          "category": "Sustantivos - Generales",
+          "reading": "いしゃ"
+        },
+        {
+          "jp": "喉",
+          "romaji": "nodo",
+          "es": "garganta",
+          "category": "Sustantivos - Generales",
+          "reading": "のど"
+        },
+        {
+          "jp": "お風呂",
+          "romaji": "ofuro",
+          "es": "baño de tina",
+          "category": "Sustantivos - Generales",
+          "reading": "おふろ"
+        },
+        {
+          "jp": "度",
+          "romaji": "do",
+          "es": "grados (temperatura)",
+          "category": "Sustantivos - Generales",
+          "reading": "〜ど"
+        },
+        {
+          "jp": "痛い",
+          "romaji": "itai",
+          "es": "doloroso / me duele",
+          "category": "Adjetivos",
+          "reading": "いたい"
+        },
+        {
+          "jp": "悪い",
+          "romaji": "warui",
+          "es": "malo",
+          "category": "Adjetivos",
+          "reading": "わるい"
+        },
+        {
+          "jp": "お大事に",
+          "romaji": "odaiji ni",
+          "es": "¡Que te mejores! / Cuídate",
+          "category": "Expresiones",
+          "reading": "おだいじに"
+        },
+        {
+          "jp": "どうしましたか",
+          "romaji": "dou shimashita ka",
+          "es": "¿Qué le ocurre? / ¿Qué problema tiene?",
+          "category": "Expresiones"
+        },
+        {
+          "jp": "〜のほうがいい",
+          "romaji": "no hou ga ii",
+          "es": "es mejor que...",
+          "category": "Expresiones"
+        },
+        {
+          "jp": "〜なければいけません",
+          "romaji": "nakereba ikemasen",
+          "es": "tener que...",
+          "category": "Expresiones"
+        }
+      ],
+      "verbs": [
+        {
+          "jp": "痛む",
+          "romaji": "itamu",
+          "es": "doler",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "痛みます",
+          "te": "痛んで",
+          "past": "痛んだ",
+          "reading": "いたむ"
+        },
+        {
+          "jp": "磨く",
+          "romaji": "migaku",
+          "es": "cepillar (dientes)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "磨きます",
+          "te": "磨いて",
+          "past": "磨いた",
+          "reading": "みがく"
+        },
+        {
+          "jp": "引く",
+          "romaji": "hiku",
+          "es": "contraer (かぜをひく = resfriarse)",
+          "category": "Verbos U (Grupo 1)",
+          "masu": "引きます",
+          "te": "引いて",
+          "past": "引いた",
+          "reading": "ひく"
+        },
+        {
+          "jp": "熱がある",
+          "romaji": "netsu ga aru",
+          "es": "tener fiebre",
+          "category": "Verbos RU (Grupo 2)",
+          "masu": "熱があます",
+          "te": "熱があて",
+          "past": "熱があた",
+          "reading": "ねつがある"
+        },
+        {
+          "jp": "無理をする",
+          "romaji": "muri o suru",
+          "es": "sobreesforzarse / forzarse",
+          "category": "Verbos Irregulares (Grupo 3)",
+          "masu": "無理をします",
+          "te": "無理をして",
+          "past": "無理をした",
+          "reading": "むりをする"
+        }
+      ],
+      "sentences": [],
+      "grammar": [
+        "Dar consejos: 〜ほうがいいです (hou ga ii desu - Es mejor que...)",
+        "Expresar razón o explicación formal: 〜んです (ndesu / n desu)",
+        "Expresar exceso: 〜すぎる (sugiru - Demasiado / Excesivamente)",
+        "Tener que / Deber hacer algo: 〜なければいけません (nakereba ikemasen)",
+        "Previsión / Pronóstico: 〜でしょう (deshou - Probablemente / ¿Verdad?)"
+      ],
+      "grammarText": "1. Dar consejos: 〜ほうがいいです (hou ga ii desu - Es mejor que...)\nSe utiliza para aconsejar a alguien que haga o no haga algo.\n Consejo afirmativo: Verbo en forma corta pasada (Forma た) + ほうがいいです。\n Consejo negativo: Verbo en forma corta negativa (Forma ない) + ほうがいいです。\nEjemplos:\n 薬を飲んだほうがいいです。\nRomaji: Kusuri o nonda hou ga ii desu.\nEspañol: Es mejor que tomes medicina.\n 無理をしないほうがいいです。\nRomaji: Muri o shinai hou ga ii desu.\nEspañol: Es mejor que no te sobreesfuerces.\n2. Expresar razón o explicación formal: 〜んです (ndesu / n desu)\nAñadir 〜んです (o 〜のです en contextos escritos) tras la forma corta sirve para dar una\nexplicación, justificación o respuesta contextualizada a una situación.\nConjugaciones antes de んです:\n Verbo / Adjetivo い: Forma corta + んです\n(ej.\n行くんです iku ndesu,\n寒いんです samui ndesu)\n Adjetivo な / Sustantivo: Forma corta + な + んです\n(ej.\n静かなんです shizuka na ndesu,\n病気なんです byouki na ndesu)\nEjemplos:\n どうしたんですか。頭が痛いんです。\nRomaji: Dou shita ndesu ka. Atama ga itai ndesu.\nEspañol: ¿Qué te pasa? Es que me duele la cabeza.\n3. Expresar exceso: 〜すぎる (sugiru - Demasiado / Excesivamente)\nSe une a la raíz de verbos y adjetivos para indicar que algo supera los límites deseables. Funciona\ncomo un Verbo RU.\n Verbos: Raíz (forma ます sin ます) + すぎる\n(ej.\n食べる ->\n食べすぎる tabesugiru = comer demasiado)\n Adjetivos い: Quitar い + すぎる\n(ej.\n痛い ->\n痛すぎる itasugiru = doler demasiado)\n Adjetivos な: Raíz sin な + すぎる\n(ej.\n静か ->\n静かすぎる shizukasugiru = demasiado silencioso)\nEjemplos:\n 昨日の夜、お酒を飲みすぎました。\nRomaji: Kinou no yoru, osake o nomisugimashita.\nEspañol: Anoche bebí demasiado alcohol.\n4. Tener que / Deber hacer algo: 〜なければいけません (nakereba ikemasen)\nExpresa obligación. Se toma la forma corta negativa (forma ない), se quita la い final y se añade 〜\nければいけません (o en lenguaje informal 〜なきゃいけない).\nEjemplos:\n 毎日薬を飲まなければいけません。\nRomaji: Mainichi kusuri o nomanakereba ikemasen.\n\n\nEspañol: Tengo que tomar medicina todos los días.\n5. Previsión / Pronóstico: 〜でしょう (deshou - Probablemente / ¿Verdad?)\nSe utiliza para conjeturar o expresar una probabilidad alta. Se coloca después de la forma corta (en\nadjetivos な y sustantivos se omite el だ).\nEjemplos:\n 明日は雨が降るでしょう。\nRomaji: Ashita wa ame ga furu deshou.\nEspañol: Mañana probablemente lloverá.",
+      "kanji": [
+        {
+          "character": "病",
+          "reading": "byou",
+          "meaning": "enfermedad",
+          "kana": "びょう"
+        },
+        {
+          "character": "院",
+          "reading": "in",
+          "meaning": "institución",
+          "kana": "いん"
+        },
+        {
+          "character": "医",
+          "reading": "i",
+          "meaning": "medicina/médico",
+          "kana": "い"
+        },
+        {
+          "character": "者",
+          "reading": "sha",
+          "meaning": "persona",
+          "kana": "しゃ"
+        },
+        {
+          "character": "体",
+          "reading": "karada/tai",
+          "meaning": "cuerpo",
+          "kana": "からだ / たい"
+        },
+        {
+          "character": "歯",
+          "reading": "ha/shi",
+          "meaning": "diente",
+          "kana": "は / し"
+        },
+        {
+          "character": "変",
+          "reading": "hen/kawai",
+          "meaning": "cambiar/raro",
+          "kana": "へん / かわる"
+        },
+        {
+          "character": "熱",
+          "reading": "netsu/atsu",
+          "meaning": "fiebre/calor",
+          "kana": "ねつ / あつい"
+        },
+        {
+          "character": "薬",
+          "reading": "kusuri/yaku",
+          "meaning": "medicina",
+          "kana": "くすり / やく"
+        }
+      ]
+    }
+  ]
+}
