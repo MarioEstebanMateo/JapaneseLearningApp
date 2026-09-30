@@ -128,8 +128,8 @@ export default function App() {
   const readingEntries = useMemo(() => chapters.flatMap((chapter) => [...(chapter.vocabulary || []), ...(chapter.verbs || [])]), [chapters])
 
   function startQuiz() {
-    const previousLessons = chapters.filter((chapter) => Number(chapter.lesson) <= lesson)
-    const lessonItems = previousLessons.flatMap((chapter) => chapter[mode] || []).filter((item) => item.jp && item.es)
+    const selectedLesson = chapters.find((chapter) => Number(chapter.lesson) === lesson)
+    const lessonItems = (selectedLesson?.[mode] || []).filter((item) => item.jp && item.es)
     const available = lessonItems
     if (!available.length) return
     const nextBank = shuffle(available)
