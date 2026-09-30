@@ -48,7 +48,7 @@ function JapaneseText({ text, entries }) {
   return <>{parts.map((part, index) => { const match = readableEntries.find((entry) => entry.jp === part); return match ? <ruby key={`${part}-${index}`}>{part}<rt>{match.reading}</rt></ruby> : <span key={`${part}-${index}`}>{part}</span> })}</>
 }
 
-function makeQuestion(bank, mode, questionNumber) {
+function makeQuestion(bank, mode, questionNumber, lesson) {
   const item = bank[questionNumber % bank.length]
   if (mode === 'vocabulary') {
     const japaneseFirst = Math.random() > 0.5
@@ -60,7 +60,9 @@ function makeQuestion(bank, mode, questionNumber) {
     const answer = item.es
     return { prompt: item.jp, promptIsJapanese: true, promptLabel: 'Traduce la oración al español', answer, options: shuffle([answer, ...shuffle([...new Set(bank.map((entry) => entry.es).filter((value) => value !== answer))]).slice(0, 3)]) }
   }
-  const forms = [['masu', 'forma 〜ます'], ['te', 'forma て'], ['past', 'pasado informal']]
+  const forms = [['masu', 'forma 〜ます']]
+  if (lesson >= 4) forms.push(['past', 'pasado informal'])
+  if (lesson >= 6) forms.push(['te', 'forma て'])
   const [form, formLabel] = forms[Math.floor(Math.random() * forms.length)]
   const answer = item[form] || item.es
   const distractors = bank.map((entry) => entry[form] || entry.es).filter((value) => value !== answer)
@@ -131,7 +133,7 @@ export default function App() {
     const available = lessonItems
     if (!available.length) return
     const nextBank = shuffle(available)
-    setBank(nextBank); setIndex(0); setScore(0); setQuestion(makeQuestion(nextBank, mode, 0)); setScreen('quiz')
+    setBank(nextBank); setIndex(0); setScore(0); setQuestion(makeQuestion(nextBank, mode, 0, lesson)); setScreen('quiz')
   }
 
   function answer(selected) {
@@ -143,7 +145,7 @@ export default function App() {
   function next() {
     const nextIndex = index + 1
     if (nextIndex >= TOTAL_QUESTIONS) { setScreen('results'); return }
-    setIndex(nextIndex); setQuestion(makeQuestion(bank, mode, nextIndex))
+    setIndex(nextIndex); setQuestion(makeQuestion(bank, mode, nextIndex, lesson))
   }
 
   if (loading) return <div className="app-shell grid min-h-screen place-items-center text-sm text-slate-400">Cargando datos de Genki...</div>
