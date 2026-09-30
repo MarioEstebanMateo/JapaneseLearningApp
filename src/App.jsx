@@ -128,7 +128,7 @@ export default function App() {
   function startQuiz() {
     const previousLessons = chapters.filter((chapter) => Number(chapter.lesson) <= lesson)
     const lessonItems = previousLessons.flatMap((chapter) => chapter[mode] || []).filter((item) => item.jp && item.es)
-    const available = lessonItems.length ? lessonItems : chapters.flatMap((chapter) => chapter[mode] || []).filter((item) => item.jp && item.es)
+    const available = lessonItems
     if (!available.length) return
     const nextBank = shuffle(available)
     setBank(nextBank); setIndex(0); setScore(0); setQuestion(makeQuestion(nextBank, mode, 0)); setScreen('quiz')
