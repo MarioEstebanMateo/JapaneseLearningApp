@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import genkiData from '../genki_data.json'
 import {
   ArrowLeft,
   ArrowRight,
@@ -120,7 +121,7 @@ export default function App() {
   const [question, setQuestion] = useState(null)
   const [score, setScore] = useState(0)
 
-  useEffect(() => { fetch('/genki_data.json').then((response) => { if (!response.ok) throw new Error('No se pudo cargar genki_data.json'); return response.json() }).then((data) => setChapters(normalizeData(data))).catch((reason) => setError(reason.message)).finally(() => setLoading(false)) }, [])
+  useEffect(() => { setChapters(normalizeData(genkiData)); setLoading(false) }, [])
 
   const readingEntries = useMemo(() => chapters.flatMap((chapter) => [...(chapter.vocabulary || []), ...(chapter.verbs || [])]), [chapters])
 
